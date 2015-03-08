@@ -1,0 +1,235 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 1378
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 3
+	Country: Belgium ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 3
+	Country: Germany ; Times: 8
+	Country: Hungary ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Russia ; Times: 4
+	Country: South Africa ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 8
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 6
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 14
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-15 ; Times: 2
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 3
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-23 ; Times: 4
+	Date: 2015-02-24 ; Times: 12
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 11
+	Date: 2015-02-27 ; Times: 3
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "rhacophorus annamensis" ; Times: 1
+	Query: "mabuya guaporicola" ; Times: 1
+	Query: "Paracontias holomelas" ; Times: 1
+	Query: "heterixalus madagascariensis" ; Times: 1
+	Query: "Lako" ; Times: 1
+	Query: "hydrodynastes bicinctus" ; Times: 1
+	Query: "gerrhosaurus auritus" ; Times: 1
+	Query: "paramesotriton" ; Times: 5
+	Query: "Micrurus elegans" ; Times: 3
+	Query: "Fan Si Pan institutioncode:MNHN" ; Times: 3
+	Query: "Morelia boeleni" ; Times: 7
+	Query: "vipera wagneri" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 2
+	Query: "Bothrops ammodytoides" ; Times: 4
+	Query: "sibon dimidiata" ; Times: 1
+	Query: "Bothrolycus" ; Times: 1
+	Query: "teratoscincus microlepis" ; Times: 3
+	Query: "anolis alutaceus" ; Times: 1
+	Query: "Theloderma" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "gerarda prevostiana" ; Times: 2
+	Query: "Pseudotriton stateprovince:"New York"" ; Times: 1
+	Query: "Amietia" ; Times: 1
+	Query: "Plagiopholis nuchalis" ; Times: 4
+	Query: "cercosaura ocellata" ; Times: 1
+	Query: "dipsas brevifacies" ; Times: 1
+	Query: "Zonosaurus madagascariensis insulanus" ; Times: 1
+	Query: "Sceloporus spinosus tehuantepec" ; Times: 1
+	Query: "tropidodipsas fischeri" ; Times: 1
+	Query: "mertensiella caucasica" ; Times: 1
+	Query: "apostolepis" ; Times: 1
+	Query: "amphib" ; Times: 1
+	Query: "Chioglossa lusitanica" ; Times: 2
+	Query: "scinax x-signatus" ; Times: 1
+	Query: "monts Atachi-Bacca" ; Times: 1
+	Query: "Chamaeleo petteri" ; Times: 1
+	Query: "Oxyrhopus melanogenys" ; Times: 1
+	Query: "boa constrictor venezuela" ; Times: 1
+	Query: "feylinia grandisquamis" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "pelodytes punctatus" ; Times: 1
+	Query: "Lytorhynchus maynardi" ; Times: 2
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Triturus meridionalis" ; Times: 1
+	Query: "AMS caledoniscincus" ; Times: 1
+	Query: "Triturus kosswigi" ; Times: 1
+	Query: "Chamaeleo bifidus" ; Times: 1
+	Query: "testudo graeca ibera" ; Times: 1
+	Query: "catalognumber:0.4424" ; Times: 1
+	Query: "Mertensiella luschani" ; Times: 6
+	Query: "diploglossus monotropis" ; Times: 3
+	Query: "varanus komodoensis" ; Times: 4
+	Query: "escalerae" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "yniphora" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "zygaspis quadrifrons" ; Times: 2
+	Query: "Tomopterna cryptotis" ; Times: 1
+	Query: "leptodactylus pustulatus" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 1
+	Query: "Scinax x-signatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 326 download events in this period)
+Total number of records downloaded: 3715 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3546
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Russia ; Times: 5
+	Country: South Africa ; Times: 4
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 7
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 9
+	Date: 2015-02-13 ; Times: 5
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-18 ; Times: 6
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 5
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Triturus vulgaris" ; Times: 1
+	Query: "xenosaurus" ; Times: 3
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "paramesotriton" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "chiropterotriton" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Craugastor longirostris" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Amietia" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "gerrhosaurus nigrolineatus" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Hyla japonica" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Duttaphrynus" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "Hyla savignyi" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Imantodes" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Tomopterna cryptotis" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 114
+Total number of records retrieved from searches: 1617
+Number of download events that retrieved data from the resource: 94
+Total number of records downloaded: 18427
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 252
+Total number of records retrieved from searches: 3421
+Number of download events that retrieved data from the resource: 97
+Total number of records downloaded: 18609
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
