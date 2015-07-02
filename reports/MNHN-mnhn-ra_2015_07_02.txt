@@ -1,0 +1,255 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 1888
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Belgium ; Times: 6
+	Country: Belize ; Times: 3
+	Country: Brazil ; Times: 14
+	Country: Dominican Republic ; Times: 3
+	Country: Germany ; Times: 16
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 20
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 14
+	Date: 2015-06-02 ; Times: 9
+	Date: 2015-06-03 ; Times: 11
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 7
+	Date: 2015-06-06 ; Times: 5
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 7
+	Date: 2015-06-09 ; Times: 3
+	Date: 2015-06-10 ; Times: 6
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 3
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-19 ; Times: 7
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-24 ; Times: 14
+	Date: 2015-06-25 ; Times: 6
+	Date: 2015-06-26 ; Times: 6
+	Date: 2015-06-27 ; Times: 12
+	Date: 2015-06-28 ; Times: 10
+	Date: 2015-06-29 ; Times: 4
+	Date: 2015-06-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Drymobius chloroticus" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 1
+	Query: "Chitra" ; Times: 2
+	Query: "Sphaenorhynchus carneus" ; Times: 1
+	Query: "anolis marcanoi" ; Times: 2
+	Query: "Bolitoglossa sp" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "BRONIA BRASILIANA" ; Times: 1
+	Query: "crocea mnhn" ; Times: 1
+	Query: "paramesotriton" ; Times: 6
+	Query: "torquatus mnhn" ; Times: 2
+	Query: "rouxi mnhn" ; Times: 1
+	Query: "graptemys pulchra" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 2
+	Query: "Coniophanes piceivittis" ; Times: 2
+	Query: "Atractaspis heterochilus" ; Times: 2
+	Query: "Corytophanes percarinatus" ; Times: 1
+	Query: "Simophis rhinostoma" ; Times: 2
+	Query: "ZSM" ; Times: 1
+	Query: "Hyla biobeba" ; Times: 1
+	Query: "oxybelis fulgidus" ; Times: 2
+	Query: "geophis chalybeus" ; Times: 1
+	Query: "Sula mnhn" ; Times: 3
+	Query: "mako" ; Times: 1
+	Query: "Phrynops tuberculatus" ; Times: 3
+	Query: "Blanus tingitanus" ; Times: 1
+	Query: "amphisbaena plumbea" ; Times: 1
+	Query: "crocodylus cataphractus" ; Times: 1
+	Query: "Dryophis xanthozona" ; Times: 3
+	Query: "Anomalepis" ; Times: 2
+	Query: "Phyllomedusa aspera" ; Times: 2
+	Query: "Amphiglossus astrolabi" ; Times: 3
+	Query: "Typhlops brongersmianus" ; Times: 4
+	Query: "typhlops diardii" ; Times: 1
+	Query: "Aristelliger georgeensis" ; Times: 1
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "amphisbaena VARIA" ; Times: 1
+	Query: "amphisbaena mITCHELLI" ; Times: 1
+	Query: "aubria" ; Times: 1
+	Query: "AGAMODON COMPRESSUS" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 1
+	Query: "inornata mnhn" ; Times: 3
+	Query: "torquata mnhn" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "BLANUS METTETALI" ; Times: 3
+	Query: "melanops mnhn" ; Times: 1
+	Query: "Chitra indica" ; Times: 8
+	Query: "Chitra chitra" ; Times: 1
+	Query: "Mabuya dorsivittata" ; Times: 3
+	Query: "petiti mnhn" ; Times: 2
+	Query: "osteolaemus tetraspis" ; Times: 3
+	Query: "pageoti" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 2
+	Query: "theloderma asperum" ; Times: 1
+	Query: "anolis etheridgei" ; Times: 1
+	Query: "osteolaemus" ; Times: 3
+	Query: "teratoscincus microlepis" ; Times: 1
+	Query: "eirenis iran" ; Times: 1
+	Query: "Phrynops tuberosus" ; Times: 1
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "heterodactylus" ; Times: 1
+	Query: "Paranaja multifasciata" ; Times: 2
+	Query: "Anolis ricordii" ; Times: 1
+	Query: "Phrynohyas resinifictrix" ; Times: 1
+	Query: "amphisbaena carvalhoi" ; Times: 1
+	Query: ""sibon dimidiata"" ; Times: 3
+	Query: "podarcis bocagei" ; Times: 1
+	Query: "mabuya dorsivittata" ; Times: 6
+	Query: "Corytophanes hernandesii" ; Times: 2
+	Query: "abyssinica mnhn" ; Times: 1
+	Query: "Typhlops reticulatus" ; Times: 1
+	Query: "Atractaspis reticulata" ; Times: 2
+	Query: "Mabuya dissimilis" ; Times: 3
+	Query: "podarcis pityusensis" ; Times: 1
+	Query: "Pseudemys floridana Alabama" ; Times: 2
+	Query: "ANCYLOCRANIUM IONIDESI" ; Times: 1
+	Query: "Eryx muelleri" ; Times: 5
+	Query: "amphisbaena ridleyi" ; Times: 1
+	Query: "Sphaenorhynchus dorisae" ; Times: 2
+	Query: "laemanctus serratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1524 download events in this period)
+Total number of records downloaded: 3202 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2764
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belize ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Guatemala ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 4
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 8
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 4
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 2
+	Date: 2015-06-16 ; Times: 9
+	Date: 2015-06-17 ; Times: 5
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Bolitoglossa altamazonica" ; Times: 1
+	Query: "pternohyla fodiens" ; Times: 1
+	Query: "Bolitoglossa sp" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Atractaspis heterochilus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "enhydrina" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Anomalepis" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "Chitra indica" ; Times: 2
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "Mabuya dorsivittata" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "osteolaemus" ; Times: 3
+	Query: "bufo retiformis" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon)" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: ""sibon dimidiata"" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "Qatar" ; Times: 1
+	Query: "Totonicapan" ; Times: 1
+	Query: "Atractaspis reticulata" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "United Arab Emirates" ; Times: 1
+	Query: "Eryx muelleri" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "yemen" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "Anolis chlorocyanus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 495
+Total number of records retrieved from searches: 6209
+Number of download events that retrieved data from the resource: 280
+Total number of records downloaded: 31769
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 633
+Total number of records retrieved from searches: 8013
+Number of download events that retrieved data from the resource: 283
+Total number of records downloaded: 31951
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
