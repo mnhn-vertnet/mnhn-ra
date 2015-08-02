@@ -1,0 +1,268 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 1462
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: Colombia ; Times: 16
+	Country: Germany ; Times: 12
+	Country: Indonesia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Morocco ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 4
+	Country: United States ; Times: 92
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 10
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 3
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 23
+	Date: 2015-07-10 ; Times: 10
+	Date: 2015-07-11 ; Times: 18
+	Date: 2015-07-12 ; Times: 3
+	Date: 2015-07-14 ; Times: 4
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 8
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-20 ; Times: 10
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 24
+	Date: 2015-07-23 ; Times: 6
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-25 ; Times: 4
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 7
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "rio moa" ; Times: 2
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "leptodactylus fallax" ; Times: 1
+	Query: "alytes cisternasii" ; Times: 1
+	Query: "(Pareas)" ; Times: 2
+	Query: "dendrelaphis formosus" ; Times: 1
+	Query: "mnhn oman" ; Times: 4
+	Query: ""eirenis decemlineata"" ; Times: 1
+	Query: "pelusios cupulatta" ; Times: 1
+	Query: ""atractus schach"" ; Times: 1
+	Query: "scotobleps" ; Times: 1
+	Query: "malayemys" ; Times: 2
+	Query: "zsm type:specimen" ; Times: 3
+	Query: "Graptemys oculifera" ; Times: 1
+	Query: "hyla sibleszi" ; Times: 1
+	Query: "Gonionotophis" ; Times: 1
+	Query: "hyla pinorum" ; Times: 2
+	Query: "Elapoidis" ; Times: 1
+	Query: "imitatrix" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 4
+	Query: "dendrelaphis cyanochloris" ; Times: 1
+	Query: "koniagui" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 2
+	Query: "Arrhyton taeniatum" ; Times: 1
+	Query: "lampropeltis jalisco" ; Times: 2
+	Query: "phelsuma cepediana" ; Times: 4
+	Query: "county:"mexico"" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "Leptodrymus" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 6
+	Query: "Harra" ; Times: 1
+	Query: "crotalus vegrandis" ; Times: 2
+	Query: "Mabuya novemcarinata" ; Times: 2
+	Query: "varanus komodoensis" ; Times: 21
+	Query: "pelophylax saharicus" ; Times: 3
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "lepidus (pinos)" ; Times: 5
+	Query: "tehuacan" ; Times: 1
+	Query: "hyla crassa" ; Times: 1
+	Query: "bilineatum" ; Times: 2
+	Query: "Amyda ferox" ; Times: 2
+	Query: "komodoensis" ; Times: 1
+	Query: "quedenfeldtia trachyblepharus" ; Times: 1
+	Query: "lepidus (Pinos)" ; Times: 2
+	Query: "amphisbaena occidentalis" ; Times: 1
+	Query: "Oreophryne monticola" ; Times: 1
+	Query: "stateprovince:"Fort Dauphin" country:"madagascar"" ; Times: 2
+	Query: "cyrtodactylus fumosus" ; Times: 2
+	Query: "Trionyx spinifera" ; Times: 1
+	Query: "dam country:"zimbabwe"" ; Times: 3
+	Query: "mabuya dorsivittata" ; Times: 13
+	Query: "pelusios broadleyi" ; Times: 1
+	Query: "hyla microderma" ; Times: 1
+	Query: "bachia bicolor" ; Times: 16
+	Query: "claudius angustatus" ; Times: 1
+	Query: "pelusios marani" ; Times: 1
+	Query: "Sobrinho" ; Times: 1
+	Query: "Gonionotophis type:specimen" ; Times: 5
+	Query: "Simophis rhinostoma" ; Times: 2
+	Query: "zsm" ; Times: 1
+	Query: "Bananal" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 4
+	Query: "Acalyptophis peronii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 1084 download events in this period)
+Total number of records downloaded: 3876 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3534
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Panama ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 64
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 7
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 4
+	Date: 2015-07-22 ; Times: 33
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 5
+	Date: 2015-07-30 ; Times: 6
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "hyla pinorum" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "Phyllodactylus unctus" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "chondrodactylus AND (NOT turneri)" ; Times: 2
+	Query: "chondrodactylus" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Graptemys nigrinoda" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "hyla crassa" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "Graptemys pulchra" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Chrysemys dorsalis" ; Times: 1
+	Query: "Amyda ferox" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "aneides hardii" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Trionyx spinifera" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "hyla godmani" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Pedioplanis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 653
+Total number of records retrieved from searches: 7671
+Number of download events that retrieved data from the resource: 370
+Total number of records downloaded: 35645
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 791
+Total number of records retrieved from searches: 9475
+Number of download events that retrieved data from the resource: 373
+Total number of records downloaded: 35827
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
