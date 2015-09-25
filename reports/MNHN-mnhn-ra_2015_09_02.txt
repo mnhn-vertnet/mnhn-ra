@@ -1,0 +1,265 @@
+Report for Institution Code MNHN, Resource RA
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 240
+Number of records retrieved in searches: 2658
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 30
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Malaysia ; Times: 7
+	Country: Mexico ; Times: 20
+	Country: New Zealand ; Times: 2
+	Country: Panama ; Times: 5
+	Country: Russia ; Times: 2
+	Country: United Kingdom ; Times: 64
+	Country: United States ; Times: 98
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 4
+	Date: 2015-08-03 ; Times: 5
+	Date: 2015-08-04 ; Times: 4
+	Date: 2015-08-05 ; Times: 8
+	Date: 2015-08-07 ; Times: 4
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-10 ; Times: 6
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-14 ; Times: 64
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-17 ; Times: 18
+	Date: 2015-08-18 ; Times: 34
+	Date: 2015-08-19 ; Times: 30
+	Date: 2015-08-20 ; Times: 10
+	Date: 2015-08-21 ; Times: 4
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 6
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 6
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 9
+	Date: 2015-08-29 ; Times: 6
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Xenodon rhabdocephalus" ; Times: 1
+	Query: "Cnemidophorus lacertoides" ; Times: 3
+	Query: "Altiphrynoides" ; Times: 1
+	Query: "Leiosaurus" ; Times: 2
+	Query: "uropeltis woodmasoni" ; Times: 1
+	Query: "microcaecilia" ; Times: 1
+	Query: "ophisaurus mimicus" ; Times: 3
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "pseudotriton montanus virginia" ; Times: 1
+	Query: "ichthyophis glutinosus" ; Times: 1
+	Query: "Afroedura" ; Times: 1
+	Query: "plectrurus guentheri" ; Times: 1
+	Query: "Osornophryne percrassa" ; Times: 1
+	Query: "micrurus browni" ; Times: 2
+	Query: "micrurus latifasciatus" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 2
+	Query: "naultinus elegans" ; Times: 1
+	Query: "echis carinata" ; Times: 4
+	Query: "gerarda" ; Times: 1
+	Query: "uropeltis dindigalensis" ; Times: 2
+	Query: "Python curtus" ; Times: 1
+	Query: "uropeltis rubromaculatus" ; Times: 2
+	Query: "Chitra" ; Times: 1
+	Query: "apostolepis quinquelineata" ; Times: 1
+	Query: "tupinambis merianae" ; Times: 2
+	Query: "rhinophis sanguineus" ; Times: 1
+	Query: "crocodylus cataphractus" ; Times: 64
+	Query: "mnhn 2986" ; Times: 2
+	Query: "lanthanotus borneensis" ; Times: 7
+	Query: "uropeltis beddomii" ; Times: 1
+	Query: "volcan Baru" ; Times: 4
+	Query: "typhlops tenuis" ; Times: 1
+	Query: "uropeltis arcticeps" ; Times: 1
+	Query: "teretrurus sanguineus" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "echis carinatus" ; Times: 2
+	Query: "micrurus dumerilii" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 1
+	Query: "dryocalamus nympha" ; Times: 1
+	Query: "zsm" ; Times: 1
+	Query: "Alytes cisternasii" ; Times: 1
+	Query: "Apostolepis quinquelineata" ; Times: 14
+	Query: "Japalura variegata" ; Times: 4
+	Query: "acanthodactylus aureus" ; Times: 1
+	Query: "uropeltis smithi" ; Times: 1
+	Query: "Trimeresurus cornutus" ; Times: 4
+	Query: "helicops carinicaudus" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 9
+	Query: "pternohyla fodiens" ; Times: 1
+	Query: "Apostolepis" ; Times: 4
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "mehelya capensis" ; Times: 2
+	Query: "uraeotyphlus oxyurus" ; Times: 2
+	Query: "micrurus elegans" ; Times: 2
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "coronatum institutioncode:MNHN" ; Times: 2
+	Query: "uropeltis liura" ; Times: 1
+	Query: "uropeltis pulneyensis" ; Times: 3
+	Query: "uropeltis rubrolineatus" ; Times: 5
+	Query: "gerrhonotus liocephalus" ; Times: 2
+	Query: "Pseudhymenochirus type:specimen" ; Times: 2
+	Query: "graptemys oculifera" ; Times: 2
+	Query: "uropeltis myhendrae" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: "uropeltis broughami" ; Times: 2
+	Query: "mehelya gabouensis" ; Times: 2
+	Query: "eryx conicus" ; Times: 2
+	Query: "hymenochirus type:specimen" ; Times: 1
+	Query: "Cophyla" ; Times: 2
+	Query: "uropeltis nitidus" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 6
+	Query: "Urotheca" ; Times: 1
+	Query: "Gonionotophis" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "plectrurus aureus" ; Times: 1
+	Query: "Micropisthodon" ; Times: 1
+	Query: "uropeltis petersi" ; Times: 1
+	Query: "uropeltis ocellatus" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 7
+	Query: "gonionotophis klingi" ; Times: 3
+	Query: "germani mnhn" ; Times: 1
+	Query: "uropeltis macrolepis" ; Times: 2
+	Query: "eirenis" ; Times: 2
+	Query: "hylarana lepus" ; Times: 1
+	Query: "liolaemus pantherinus" ; Times: 1
+	Query: "Lacerta bilineata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1138 download events in this period)
+Total number of records downloaded: 6134 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5704
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 2
+	Country: Malaysia ; Times: 5
+	Country: Mexico ; Times: 11
+	Country: Morocco ; Times: 1
+	Country: Panama ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 20
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 9
+	Date: 2015-08-07 ; Times: 4
+	Date: 2015-08-10 ; Times: 5
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-16 ; Times: 6
+	Date: 2015-08-18 ; Times: 3
+	Date: 2015-08-19 ; Times: 3
+	Date: 2015-08-20 ; Times: 4
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 4
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Osornophryne percrassa" ; Times: 1
+	Query: "Leiosaurus" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Liolaemus pictus" ; Times: 2
+	Query: "country:"panama"" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "microcaecilia" ; Times: 2
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "Pristidactylus" ; Times: 1
+	Query: "astrotia stokesii" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Mesaspis moreleti" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "volcan Baru" ; Times: 4
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "oplurus" ; Times: 1
+	Query: "typhlops tenuis" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "Diplolaemus" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "bolitoglossa dunni" ; Times: 1
+	Query: "Melanophryniscus stelzneri" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "crocodylus cataphractus" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "Sibynophis geminatus" ; Times: 5
+	Query: "anolis sagrei" ; Times: 1
+	Query: "Apostolepis quinquelineata" ; Times: 2
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "gerarda" ; Times: 1
+	Query: "Agama hispida" ; Times: 1
+	Query: "chalarodon" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "quedenfeldtia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 240
+Total number of records retrieved from searches: 2658
+Number of download events that retrieved data from the resource: 64
+Total number of records downloaded: 6134
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 240
+Total number of records retrieved from searches: 2658
+Number of download events that retrieved data from the resource: 64
+Total number of records downloaded: 6134
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
