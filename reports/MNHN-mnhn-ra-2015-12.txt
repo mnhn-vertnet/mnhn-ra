@@ -1,0 +1,250 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 1124
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 67
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 5
+	Date: 2015-12-07 ; Times: 14
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 7
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-27 ; Times: 10
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 9
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Tribolonotus novaeguineae" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 8
+	Query: "Gehyra vorax" ; Times: 2
+	Query: "Rhynchophis" ; Times: 1
+	Query: "oreocryptophis porphyraceus" ; Times: 2
+	Query: "Chioninia fogoensis" ; Times: 1
+	Query: "Lacertaspis rohdei" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Phelsuma barbouri" ; Times: 1
+	Query: "Geagras redimitus" ; Times: 1
+	Query: "calliophis bibroni" ; Times: 2
+	Query: "Phelsuma ravenala" ; Times: 1
+	Query: "fejervarya syhadrensis" ; Times: 1
+	Query: "Coluber caspius" ; Times: 1
+	Query: "Panaspis reichenowi" ; Times: 1
+	Query: "Lacertaspis gemmiventris" ; Times: 1
+	Query: "hogei" ; Times: 1
+	Query: "Podarcis milensis" ; Times: 1
+	Query: "Draco fimbriatus" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "bufo pentoni" ; Times: 2
+	Query: "Macrovipera mauritanica" ; Times: 1
+	Query: "Eleutherodactylus acuminatus" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "Oligodon albocinctus" ; Times: 2
+	Query: "Chelus institutioncode:MNHN" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "Pachydactylus mariquensis" ; Times: 4
+	Query: "mertensiella caucasica" ; Times: 1
+	Query: "Cerastes gasperettii" ; Times: 1
+	Query: "calliophis nigrescens" ; Times: 1
+	Query: "Chioninia delalandii" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 1
+	Query: "Pachydactylus latirostris" ; Times: 3
+	Query: "Lacertaspis reichenowi" ; Times: 1
+	Query: "hydromedusa maximiliani" ; Times: 1
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "pipa aspera" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "elaphe jalisco" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Thamnosophis lateralis" ; Times: 1
+	Query: "Phelsuma inexpectata" ; Times: 1
+	Query: "rhadinaea godmani" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Oplurus fierinensis" ; Times: 1
+	Query: "periglenes" ; Times: 1
+	Query: "Emoia trossula" ; Times: 2
+	Query: "Elaphe scalaris" ; Times: 1
+	Query: "Draco lineatus" ; Times: 1
+	Query: "Vipera mauritanica" ; Times: 1
+	Query: "Oreocryptophis" ; Times: 2
+	Query: "Cordylus tropidosternum" ; Times: 1
+	Query: "crotalus salvini" ; Times: 1
+	Query: "Hoplodactylus granulatus" ; Times: 1
+	Query: "Typhlops congestus" ; Times: 2
+	Query: "Lioscincus maruia" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 4
+	Query: "Quedenfeldtia moerens" ; Times: 2
+	Query: "Thamnosophis epistibes" ; Times: 1
+	Query: "Oligodon juglandifer" ; Times: 2
+	Query: "Uromastyx acanthinura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 889 download events in this period)
+Total number of records downloaded: 60025
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 92
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-16 ; Times: 6
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 16
+	Date: 2015-12-07 ; Times: 13
+	Date: 2015-12-06 ; Times: 6
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-20 ; Times: 4
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 22
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 20
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Lacertaspis lepesmei" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Elaphe longissima" ; Times: 1
+	Query: "Podarcis milensis" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Oedura castelnaui" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Elaphe moellendorffi" ; Times: 1
+	Query: "Cordylus polyzonus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Cyclura carinata" ; Times: 1
+	Query: "Anolis punctatus" ; Times: 2
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Cordylus tropidosternum" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "Phelsuma astriata" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "Elaphe quadrivirgata" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "Macrovipera mauritanica" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Uromacer oxyrhynchus" ; Times: 1
+	Query: "Gymnophthalmus underwoodi" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Pedioplanis lineoocellata" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Podarcis bocagei" ; Times: 1
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "Sphenomorphus coxi" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "bufo compactilis" ; Times: 2
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Cordylus jordani" ; Times: 1
+	Query: "Hemiergis decresiensis" ; Times: 1
+	Query: "Tribolonotus novaeguineae" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Sceloporus squamosus" ; Times: 1
+	Query: "Phelsuma lineata" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Phelsuma ravenala" ; Times: 1
+	Query: "Oligosoma" ; Times: 1
+	Query: "Zonosaurus rufipes" ; Times: 1
+	Query: "Panaspis reichenowi" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Tracheloptychus petersi" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "Lacerta trilineata" ; Times: 1
+	Query: "Afrique institutioncode:MNHN" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "Oplurus cuvieri" ; Times: 1
+	Query: "Cerastes gasperettii" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "Podarcis vaucheri" ; Times: 2
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Lacertaspis rohdei" ; Times: 1
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 1
+	Query: "Geagras redimitus" ; Times: 1
+	Query: "Sceloporus smaragdinus" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Lacertaspis reichenowi" ; Times: 1
+	Query: "Sinonatrix percarinata" ; Times: 1
+	Query: "Anolis ortonii" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Podarcis erhardii" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Draco taeniopterus" ; Times: 1
+	Query: "Lacertaspis gemmiventris" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "Vipera mauritanica" ; Times: 1
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
