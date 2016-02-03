@@ -1,0 +1,278 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 1742
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 85
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Thailand ; Times: 3
+	Country: Sri Lanka ; Times: 4
+	Country: Hungary ; Times: 1
+	Country: Argentina ; Times: 15
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 29
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-18 ; Times: 7
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 19
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mehelya capensis" ; Times: 1
+	Query: "Dryocalamus" ; Times: 5
+	Query: "Atelopus hoogmoedi" ; Times: 1
+	Query: "Leptopelis omissus" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "Peltocephalus AND MNHN" ; Times: 1
+	Query: "ophisaurus mimicus" ; Times: 1
+	Query: "Ansonia penangensis" ; Times: 1
+	Query: "antanges" ; Times: 2
+	Query: "Gopherus AND MNHN" ; Times: 1
+	Query: "yniphora AND MNHN" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "Platemys AND MNHN" ; Times: 1
+	Query: "Liolaemus archeforus" ; Times: 1
+	Query: "Podocnemis AND MNHN" ; Times: 1
+	Query: "Narudasia" ; Times: 1
+	Query: "&#34;pseudobranchus striatus striatus&#34;" ; Times: 1
+	Query: "bourreti AND MNHN" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Bombina maxima" ; Times: 4
+	Query: "Rhadinaea quinquelineata" ; Times: 1
+	Query: "Chelonoidis AND MNHN" ; Times: 1
+	Query: "andrias davidianus" ; Times: 1
+	Query: "Terrapene AND MNHN" ; Times: 1
+	Query: "sundewalli" ; Times: 1
+	Query: "Pelusios bechuanicus AND MNHN" ; Times: 1
+	Query: "Nessia burtonii" ; Times: 4
+	Query: "Rhadinaea godmani" ; Times: 4
+	Query: "Gavialis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "craugastor fleischmanni" ; Times: 1
+	Query: "Anolis lemniscatus" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "Erymnochelys AND MNHN" ; Times: 1
+	Query: "Emydura AND MNHN" ; Times: 2
+	Query: "Hymenochirus curtipes" ; Times: 4
+	Query: "Callagur AND MNHN" ; Times: 1
+	Query: "Chelodina AND MNHN" ; Times: 1
+	Query: "Norops biporcatus Guatemala" ; Times: 2
+	Query: "Tropidodipsas fischeri" ; Times: 1
+	Query: "polygrammicus" ; Times: 2
+	Query: "bufo marinus jalisco" ; Times: 1
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Geoemyda AND MNHN" ; Times: 1
+	Query: "bombina maxima" ; Times: 2
+	Query: "Emys orbicularis AND MNHN" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 5
+	Query: "Manouria AND MNHN" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "pachytriton brevipes" ; Times: 1
+	Query: "adansonii AND MNHN" ; Times: 1
+	Query: "Pelusios AND MNHN" ; Times: 1
+	Query: "Phrynops AND MNHN" ; Times: 1
+	Query: "Sistrurus catenatus type:specimen (Ohio)" ; Times: 1
+	Query: "Kinixys AND MNHN" ; Times: 1
+	Query: "Acanthochelys AND MNHN" ; Times: 2
+	Query: "Pipa carvalhoi" ; Times: 3
+	Query: "Varanus exanthematicus institutioncode:MNHN" ; Times: 1
+	Query: "Pipa arrabali" ; Times: 3
+	Query: "coluber constrictor oaxaca" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Lako" ; Times: 1
+	Query: "MNHN 1889.23" ; Times: 1
+	Query: "MNHN 1889.24" ; Times: 1
+	Query: "Varanus griseus institutioncode:MNHN" ; Times: 2
+	Query: "Varanus albigularis institutioncode:MNHN" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Macrochelys AND MNHN" ; Times: 1
+	Query: "longicollis AND MNHN" ; Times: 1
+	Query: "Trachemys AND MNHN" ; Times: 1
+	Query: "Norops auratus" ; Times: 1
+	Query: "Bombina microdeladigitora" ; Times: 5
+	Query: "sympholis lippiens" ; Times: 1
+	Query: "Bothrops neuwiedii" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "clinotarsus" ; Times: 1
+	Query: "Homopus AND MNHN" ; Times: 1
+	Query: "Hyla granosa" ; Times: 2
+	Query: "Leptodrymus pulcherrimus" ; Times: 2
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Pseudemys AND MNHN" ; Times: 1
+	Query: "Gerrhonotus antanges" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 2
+	Query: "Ophisaurus gracilis" ; Times: 1
+	Query: "sulcata AND MNHN" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 823 download events in this period)
+Total number of records downloaded: 3102
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 20
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 64
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 10
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 8
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 3
+	Date: 2015-10-23 ; Times: 9
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 6
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 2
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Atelopus hoogmoedi" ; Times: 1
+	Query: "Bombina maxima" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Atractus crassicaudatus" ; Times: 1
+	Query: "melanophryniscus stelzneri" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "contia tenuis" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Ansonia penangensis" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "phyllodactylus reissii" ; Times: 1
+	Query: "Bombina microdeladigitora" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "ecpleopus" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "chamaeleo ellioti" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Lipinia noctua noctua" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 1
+	Query: "Liolaemus archeforus" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "SCELOPORUS FORMOSUS" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 2
+	Query: "gularis" ; Times: 1
+	Query: "phyllodactylus reissi" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Oscaecilia zweifeli" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "thamnophis radix" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "bipes biporus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Sceloporus occidentalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "phrynomantis bifasciatus" ; Times: 1
+	Query: "Ansonia leptopus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Bufo arabicus" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "Uta stansburiana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+
+
+End of report.
