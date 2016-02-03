@@ -1,0 +1,352 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 293
+Number of records retrieved in searches: 4327
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 212
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 6
+	Country: South Africa ; Times: 8
+	Country: Singapore ; Times: 3
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Sri Lanka ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Bulgaria ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-12 ; Times: 56
+	Date: 2015-09-13 ; Times: 56
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 7
+	Date: 2015-09-16 ; Times: 11
+	Date: 2015-09-17 ; Times: 9
+	Date: 2015-09-18 ; Times: 7
+	Date: 2015-09-19 ; Times: 3
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 10
+	Date: 2015-09-05 ; Times: 36
+	Date: 2015-09-04 ; Times: 6
+	Date: 2015-09-03 ; Times: 6
+	Date: 2015-09-28 ; Times: 5
+	Date: 2015-09-01 ; Times: 9
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-27 ; Times: 22
+	Date: 2015-09-26 ; Times: 3
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-09 ; Times: 10
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Adenomera heyeri" ; Times: 4
+	Query: "Podocnemis vogli" ; Times: 1
+	Query: "plectrurus guentheri" ; Times: 2
+	Query: "Sibynophis" ; Times: 1
+	Query: "Orlitia" ; Times: 1
+	Query: "uropeltis woodmasoni" ; Times: 4
+	Query: "jugularis country:&#34;iran&#34;" ; Times: 3
+	Query: "dendrobates tinctorius mnhn" ; Times: 2
+	Query: "tropidurus spinulosus" ; Times: 1
+	Query: "Rhynchocalamus" ; Times: 3
+	Query: "Kachuga" ; Times: 1
+	Query: "Podocnemis sextuberculata" ; Times: 1
+	Query: "ichthyophis glutinosus" ; Times: 1
+	Query: "Astrochelys" ; Times: 1
+	Query: "uropeltis broughami" ; Times: 2
+	Query: "psammophilus dorsalis" ; Times: 1
+	Query: "Bitis institutioncode:MNHN" ; Times: 4
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Osornophryne percrassa" ; Times: 1
+	Query: "Podocnemis lewyana" ; Times: 1
+	Query: "Sistrurus catenatus Ohio" ; Times: 2
+	Query: "Pelusios broadleyi" ; Times: 1
+	Query: "vipera latastei" ; Times: 2
+	Query: "Macrovipera" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 1
+	Query: "Bufo marinus mnhn" ; Times: 1
+	Query: "Bufo mnhn" ; Times: 4
+	Query: "echis carinata" ; Times: 4
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "xylophis perroteti" ; Times: 1
+	Query: "Cycloramphus dubius" ; Times: 1
+	Query: "uropeltis dindigalensis" ; Times: 1
+	Query: "scincella assatus" ; Times: 1
+	Query: "Pelusios carinatus" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "riopa punctata" ; Times: 1
+	Query: "melanophidium punctatum" ; Times: 5
+	Query: "Peltocephalus dumerilianus" ; Times: 1
+	Query: "Cerastes institutioncode:MNHN" ; Times: 2
+	Query: "Pelusios rhodesianus" ; Times: 1
+	Query: "eirenis persicus country:&#34;Iran&#34;" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "rhinophis sanguineus" ; Times: 4
+	Query: "Podocnemis erythrocephala" ; Times: 1
+	Query: "Phrynops tuberculatus" ; Times: 1
+	Query: "Vipera institutioncode:MNHN" ; Times: 3
+	Query: "Alluaudina" ; Times: 1
+	Query: "python bivittatus" ; Times: 1
+	Query: "ristella travancorica" ; Times: 1
+	Query: "plectrurus perroteti" ; Times: 1
+	Query: "uropeltis beddomii" ; Times: 2
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "lycodon travancoricus" ; Times: 6
+	Query: "batagur" ; Times: 1
+	Query: "uropeltis arcticeps" ; Times: 2
+	Query: "teretrurus sanguineus" ; Times: 3
+	Query: "uropeltis rubromaculatus" ; Times: 3
+	Query: "Acanthochelys" ; Times: 3
+	Query: "Geochelone sulcata" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 2
+	Query: "dryocalamus nympha" ; Times: 8
+	Query: "Mauremys rivulata" ; Times: 1
+	Query: "Homopus femoralis" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Geophis latifrontalis*}" ; Times: 1
+	Query: "Pangshura" ; Times: 1
+	Query: "Erymnochelys madagascariensis" ; Times: 1
+	Query: "Causus institutioncode:MNHN" ; Times: 10
+	Query: "Pelusios subniger" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "Dipsochelys" ; Times: 1
+	Query: "cyrtodactylus fumosus" ; Times: 2
+	Query: "Geophis peters" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Lygosoma afer" ; Times: 2
+	Query: "Atelopus elegans" ; Times: 1
+	Query: "uropeltis ceylanicus" ; Times: 2
+	Query: "Pelusios bechuanicus" ; Times: 1
+	Query: "thamnophis sirtalis pickeringii" ; Times: 2
+	Query: "uropeltis smithi" ; Times: 3
+	Query: "Atheris institutioncode:MNHN" ; Times: 2
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "uropeltis ocellatus" ; Times: 2
+	Query: "annulifera jalisco" ; Times: 1
+	Query: "lycodon flavomaculatus" ; Times: 6
+	Query: "Morenia" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 2
+	Query: "Osornophryne bufoniformis" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "bufo marinus jalisco" ; Times: 2
+	Query: "Callagur" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 2
+	Query: "uraeotyphlus oxyurus" ; Times: 1
+	Query: "pseudablabes agassizii" ; Times: 2
+	Query: "Mabuya macularia" ; Times: 1
+	Query: "Hydromedusa maximiliani" ; Times: 1
+	Query: "Vipera latastei" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Hyla albopunctata" ; Times: 2
+	Query: "tropidodipsas fischeri" ; Times: 1
+	Query: "vipera gaditana" ; Times: 1
+	Query: "uropeltis pulneyensis" ; Times: 1
+	Query: "uropeltis rubrolineatus" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Galapagos institutioncode:MNHN" ; Times: 1
+	Query: "cuora trifasciata" ; Times: 2
+	Query: "salvadora mexicana" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 1
+	Query: "kachuga" ; Times: 2
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 2
+	Query: "Dendrobates galactonotus" ; Times: 2
+	Query: "uropeltis myhendrae" ; Times: 4
+	Query: "Angola entre" ; Times: 1
+	Query: "dendrelaphis tristis" ; Times: 6
+	Query: "dendrobates leucomelas" ; Times: 2
+	Query: "Pelusios niger" ; Times: 1
+	Query: "Acanthixalus spinosus" ; Times: 2
+	Query: "hyperolius nimbae" ; Times: 1
+	Query: "Geckonia" ; Times: 1
+	Query: "Phrynops tuberosus" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 1
+	Query: "septemstriatus" ; Times: 1
+	Query: "Pelusios adansonii" ; Times: 1
+	Query: "NMW" ; Times: 2
+	Query: "ablepharus kitaibelii" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "eryx conicus" ; Times: 7
+	Query: "uropeltis macrolepis" ; Times: 5
+	Query: "Astrochelys yniphora" ; Times: 2
+	Query: "uropeltis nitidus" ; Times: 1
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "yniphora" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "Geophis latifrontalis" ; Times: 2
+	Query: "trimeresurus strigatus" ; Times: 2
+	Query: "pelochelys" ; Times: 1
+	Query: "catalognumber:1963.99 institutioncode:MNHN" ; Times: 1
+	Query: "uropeltis petersi" ; Times: 1
+	Query: "trimeresurus macrolepis" ; Times: 1
+	Query: "Phrynops williamsi" ; Times: 1
+	Query: "uropeltis liura" ; Times: 1
+	Query: "bothrops pictus" ; Times: 1
+	Query: "Shinisaurus" ; Times: 2
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "plectrurus aureus" ; Times: 3
+	Query: "Acontias" ; Times: 1
+	Query: "Leptotyphlops septemstriatus" ; Times: 1
+	Query: "boiga forsteni" ; Times: 1
+	Query: "hydromedusa" ; Times: 1
+	Query: "Eryx muelleri" ; Times: 1
+	Query: "Lanthanotus" ; Times: 3
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "thamnophis scaliger jalisco" ; Times: 1
+	Query: "salea horsfieldi" ; Times: 1
+	Query: "sacalia bealei" ; Times: 1
+	Query: "melanophidium wynaudense" ; Times: 1
+	Query: "boiga trigonata" ; Times: 4
+	Query: "melanophidium bilineatum" ; Times: 1
+	Query: "Anolis schiedii" ; Times: 1
+	Query: "Gopherus flavomarginatus" ; Times: 1
+	Query: "agama parafricana" ; Times: 1
+	Query: "Centrochelys sulcata" ; Times: 1
+	Query: "philautus aurifasciatus" ; Times: 3
+	Query: "Erymnochelys" ; Times: 2
+	Query: "geophis mutitorques" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 1045 download events in this period)
+Total number of records downloaded: 17160
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: France ; Times: 1
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 7
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-03 ; Times: 7
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 12
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 4
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-21 ; Times: 4
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "pYTHON RETICULATUS" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "phrynomantis" ; Times: 1
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "Liolaemus ruibali" ; Times: 2
+	Query: "Hyla crepitans" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "anolis chloris" ; Times: 2
+	Query: "sceloporus melanorhinus" ; Times: 1
+	Query: "python bivittatus" ; Times: 1
+	Query: "alsophis" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "pseudoeurycea leprosa" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Bothrops mexico" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "corytophanes" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "corytophanes cristatus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "litoria eucnemis" ; Times: 1
+	Query: "tropidurus spinulosus" ; Times: 1
+	Query: "laemanctus" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "gloyd" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "sceloporus dugesii" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "Mauremys caspica" ; Times: 2
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Phrynops" ; Times: 1
+
+
+End of report.
