@@ -1,0 +1,191 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 856
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 14
+	Country: Israel ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Hungary ; Times: 3
+	Country: Argentina ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-23 ; Times: 5
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-07 ; Times: 8
+	Date: 2016-01-26 ; Times: 11
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 5
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Boa nicaragua" ; Times: 1
+	Query: "elaphe quatuorlineata" ; Times: 1
+	Query: "eryx colubrinus" ; Times: 1
+	Query: "Liolaemus wiegmannii" ; Times: 1
+	Query: "Pristurus flavipunctatus" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 3
+	Query: "Ptychadena bunoderma" ; Times: 2
+	Query: "Alsophis biserialis" ; Times: 2
+	Query: "leioheterodon madagascariensis" ; Times: 2
+	Query: "Agama colonorum" ; Times: 1
+	Query: "Dipsas brevifacies" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "quedenfeldtia moerens" ; Times: 2
+	Query: "Lampropeltis abnorma" ; Times: 1
+	Query: "Lampropeltis triangulum abnorma" ; Times: 1
+	Query: "ptychadena bunoderma" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Ophisops occidentalis" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "liolaemus wiegmannii" ; Times: 4
+	Query: "Bolitoglossa altamazonica" ; Times: 2
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "Alsophis elegans" ; Times: 3
+	Query: "laos AND (gecko)" ; Times: 1
+	Query: "(ravergieri)" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "Pachydactylus mariquensis" ; Times: 1
+	Query: "vipera ursinii" ; Times: 2
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Acanthodactylus longipes" ; Times: 1
+	Query: "Gonatodes caudiscutatus" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "Cadea" ; Times: 1
+	Query: "rhacophorus dennysii" ; Times: 1
+	Query: "de Joannis" ; Times: 2
+	Query: "coluber nummifer" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Quedenfeldtia moerens" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "bombina microdeladigitora" ; Times: 2
+	Query: "Rhombophryne" ; Times: 1
+	Query: "thamnophis sauritus oaxaca" ; Times: 1
+	Query: "Agama savignii" ; Times: 1
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "axolotl mexicanum" ; Times: 1
+	Query: "micropisthodon" ; Times: 1
+	Query: "munoai" ; Times: 1
+	Query: "hoplodactylus duvaucelii" ; Times: 1
+	Query: "Euleptes" ; Times: 2
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "laos gekko gecko" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "(coluber nummifer)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 507 download events in this period)
+Total number of records downloaded: 6852
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Liolaemus wiegmannii" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Aparallactus lunulatus" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "Erythrolamprus bizona" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "amolops afghanus" ; Times: 2
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "bombina microdeladigitora" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "lichanura" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+
+
+End of report.
