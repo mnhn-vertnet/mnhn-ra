@@ -1,0 +1,193 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 1717
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Mexico ; Times: 17
+	Country: Gabon ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 19
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 10
+	Date: 2016-02-22 ; Times: 13
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 26
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-23 ; Times: 10
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 7
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 4
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophis latifrontalis" ; Times: 1
+	Query: "Emoia sanfordi" ; Times: 1
+	Query: "Tantilla schistosa" ; Times: 1
+	Query: "Cycloramphus asper" ; Times: 2
+	Query: "gaudot" ; Times: 1
+	Query: "chrysopelea institutioncode:MNHN" ; Times: 8
+	Query: "Dryocalamus" ; Times: 4
+	Query: "ghatixalus variabilis" ; Times: 1
+	Query: "Gracixalus gracilipes" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "Mabuya sudanensis" ; Times: 1
+	Query: "Rhadinaea quinquelineata" ; Times: 3
+	Query: "ameiva dorsalis" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "Ptyas dipsas" ; Times: 1
+	Query: "Callophis" ; Times: 1
+	Query: "Trachylepis perrotetii" ; Times: 2
+	Query: "nummifer guatemala" ; Times: 1
+	Query: "Liophidium mayottensis" ; Times: 1
+	Query: "Uropeltis liura" ; Times: 1
+	Query: "Kassina cochranae" ; Times: 1
+	Query: "Rhacophorus dugritei" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "philautus gracilipes" ; Times: 1
+	Query: "Coniophanes lateritius" ; Times: 1
+	Query: "Uropeltis maculatus" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 2
+	Query: "Plectrurus aureus" ; Times: 1
+	Query: "Casarea dussumieri" ; Times: 1
+	Query: "Dryocalamus nympha" ; Times: 1
+	Query: "stenodactylus petrii" ; Times: 1
+	Query: "Platyplectrurus trilineatus" ; Times: 2
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "Mastigodryas dorsalis" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "(Osteolaemus OR Osteoblepharon)" ; Times: 3
+	Query: "Theloderma asperum" ; Times: 1
+	Query: "antanges" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Hoplophryne rogersi" ; Times: 1
+	Query: "Calamaria margaritophora" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "Uropeltis broughami" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "goudot" ; Times: 1
+	Query: "Cophyla phyllodactyla" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Uropeltis beddomii" ; Times: 1
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 2
+	Query: "15199 (FMNH)" ; Times: 1
+	Query: "Hydrophis mamillaris" ; Times: 1
+	Query: "Petropedetes perreti" ; Times: 2
+	Query: "Uropeltis dindigalensis" ; Times: 1
+	Query: "Bolyeria" ; Times: 1
+	Query: "MNHN RA 0.742" ; Times: 1
+	Query: "menglaensis" ; Times: 1
+	Query: "chrysopelea vietnam" ; Times: 7
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "pyxidea" ; Times: 1
+	Query: "Geophis isthmicus" ; Times: 1
+	Query: "Enhydris innominata" ; Times: 1
+	Query: "nummifer belize" ; Times: 2
+	Query: "micrurus diutius" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "Uropeltis nitidus" ; Times: 1
+	Query: "Oxyrhopus doliatus" ; Times: 1
+	Query: "Ebenavia" ; Times: 1
+	Query: "Gopherus flavomarginatus" ; Times: 1
+	Query: "Platyplectrurus madurensis" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Boophis tephraeomystax" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "Geophis chalybeus" ; Times: 1
+	Query: "Philautus tinniens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 512 download events in this period)
+Total number of records downloaded: 1821
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis richardii" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "ambystoma mexicanus" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "Crotalus cerastes Nevada" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Chinemys reevesii" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "pseudoeurycea leprosa" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "geckolepis" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "lepidophyma" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+
+
+End of report.
