@@ -1,0 +1,288 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 2576
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 23
+	Country: Unknown ; Times: 16
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 28
+	Country: Spain ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 10
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 13
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 17
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-22 ; Times: 6
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 5
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 16
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 22
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 8
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "chioglossa" ; Times: 1
+	Query: "Eirenis persicus" ; Times: 1
+	Query: "Eumeces taeniolatus" ; Times: 4
+	Query: "brachyorrhos" ; Times: 1
+	Query: "ptychadena chrysogaster" ; Times: 2
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "caudiverbera caudiverbera" ; Times: 1
+	Query: "scutiger boulengeri (nepal)" ; Times: 2
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "kinixys institutioncode:MNHN" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "ptychadena hylaea" ; Times: 1
+	Query: "Monopeltis schoutedeni" ; Times: 2
+	Query: "kinixys homeana" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 2
+	Query: "imantodes lentiferus" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "boiga Trigonata" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "ptychadena tournieri" ; Times: 1
+	Query: "1995.5660" ; Times: 1
+	Query: "Scutiger mammatus" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "Podarcis virescens" ; Times: 1
+	Query: "Brachyorrhos" ; Times: 1
+	Query: "Podarcis bocagei" ; Times: 2
+	Query: "ptychadena schubotzi" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "ptychadena guibei" ; Times: 1
+	Query: "caiman crocodilus fuscus" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Macrelaps" ; Times: 1
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "scutiger (nepal)" ; Times: 2
+	Query: "Alytes cisternasii" ; Times: 2
+	Query: "pyxis planicauda" ; Times: 1
+	Query: "Quang Binh" ; Times: 1
+	Query: "geckoides" ; Times: 2
+	Query: "Lycodon synaptor" ; Times: 1
+	Query: "lampropeltis triangulum country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "Scutiger boulengeri" ; Times: 1
+	Query: "Mabuya septemtaeniata" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 1
+	Query: "aparallactus lineatus" ; Times: 2
+	Query: "ptychadena arnei" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "ptychadena bunoderma" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "Aparallactus niger" ; Times: 1
+	Query: "Ablepharus deserti" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Vipera latastei" ; Times: 4
+	Query: "boeleni" ; Times: 2
+	Query: "Paratelmatobius" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 2
+	Query: "crocodylus intermedius" ; Times: 5
+	Query: "Gerrhosaurus major" ; Times: 2
+	Query: "ptychadena erlangeri" ; Times: 1
+	Query: "1994.8729" ; Times: 2
+	Query: "triturus carnifex" ; Times: 1
+	Query: "rafetus" ; Times: 1
+	Query: "Pipa carvalhoi" ; Times: 1
+	Query: "kinixys mnhn" ; Times: 1
+	Query: "Aparallactus lineatus" ; Times: 2
+	Query: "Elapsoidea multicincta" ; Times: 2
+	Query: "panaspis breviceps" ; Times: 1
+	Query: "Lygosoma angeli" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "ptychadena uzungwensis" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 2
+	Query: "Elaphe taeniura" ; Times: 1
+	Query: "ptychadena retropunctata" ; Times: 1
+	Query: "ptychadena superciliaris" ; Times: 1
+	Query: "Elapsoidea boulengeri" ; Times: 1
+	Query: "Cordylus institutioncode:MNHN" ; Times: 1
+	Query: "mnhn m 1929" ; Times: 1
+	Query: "lacerta saxicola" ; Times: 3
+	Query: "Podarcis carbonelli" ; Times: 1
+	Query: "tantilla country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Podarcis guadarramae" ; Times: 1
+	Query: "ptychadena tellinii" ; Times: 1
+	Query: "Lytorhynchus ridgewayi" ; Times: 1
+	Query: "mabuya megalura" ; Times: 1
+	Query: "Lycodon travancoricus" ; Times: 6
+	Query: "ptychadena porosissima" ; Times: 1
+	Query: "ptychadena pumilio" ; Times: 1
+	Query: "lampropeltis abnorma" ; Times: 1
+	Query: "boiga Trogonata" ; Times: 2
+	Query: "Thanh Hoa" ; Times: 1
+	Query: "coronella austriaca" ; Times: 2
+	Query: "Nannophrys ceylonensis" ; Times: 4
+	Query: "Lycodon striatus" ; Times: 1
+	Query: "Lytorhynchus maynardi" ; Times: 3
+	Query: "Brachyophis" ; Times: 1
+	Query: "ptychadena obscura" ; Times: 1
+	Query: "Emoia boettgeri" ; Times: 1
+	Query: "ptychadena ansorgii" ; Times: 1
+	Query: "ptychadena neumanni" ; Times: 1
+	Query: "ptychadena pujoli" ; Times: 1
+	Query: "Scutiger nepalensis" ; Times: 7
+	Query: "lanthanotus" ; Times: 1
+	Query: "cyreni" ; Times: 1
+	Query: "ptychadena submascareniensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1312 download events in this period)
+Total number of records downloaded: 8908
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 25
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 32
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: United Arab Emirates ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-08 ; Times: 9
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-15 ; Times: 28
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-27 ; Times: 10
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "ptychadena retropunctata" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Scutiger boulengeri" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "varanus niloticus" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "ptychadena tournieri" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "ptychadena arnei" ; Times: 1
+	Query: "ptychadena chrysogaster" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ptychadena bunoderma" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ptychadena submascareniensis" ; Times: 1
+	Query: "ptychadena mossambica" ; Times: 1
+	Query: "ptychadena tellinii" ; Times: 1
+	Query: "Podarcis hispanica" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 3
+	Query: "ptychadena porosissima" ; Times: 1
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "ptychadena superciliaris" ; Times: 1
+	Query: "kinixys institutioncode:MNHN" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "ptychadena anchietae" ; Times: 2
+	Query: "ptychadena neumanni" ; Times: 1
+	Query: "ptychadena schubotzi" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "ptychadena perreti" ; Times: 1
+	Query: "ptychadena guibei" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "ptychadena erlangeri" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "ptychadena hylaea" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "ptychadena pumilio" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "ptychadena taenioscelis" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "ptychadena pujoli" ; Times: 1
+	Query: "Monopeltis schoutedeni" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "caiman crocodilus fuscus" ; Times: 1
+	Query: "ptychadena obscura" ; Times: 1
+	Query: "Brachyorrhos" ; Times: 1
+	Query: "ptychadena ansorgii" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "ptychadena uzungwensis" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+
+
+End of report.
