@@ -1,0 +1,151 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 513
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 15
+	Country: Israel ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-31 ; Times: 4
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sibleszi" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 4
+	Query: "euproctus montanus" ; Times: 1
+	Query: "Pachydactylus tigrinus" ; Times: 1
+	Query: "Dipsas copei" ; Times: 1
+	Query: "blaesodactylus" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "Rhoptropus biporosus" ; Times: 1
+	Query: "Pachydactylus scutatus" ; Times: 1
+	Query: "Typhlops fuscus" ; Times: 1
+	Query: "pelusios gabonensis" ; Times: 1
+	Query: "Crocodylus intermedius" ; Times: 1
+	Query: "manouria emys emys" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 3
+	Query: "hildebrandtia" ; Times: 2
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Phelsuma inexpectata" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "Thamnophis brachystoma New York" ; Times: 1
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "Epictia signata" ; Times: 2
+	Query: "Phelsuma borbonica" ; Times: 1
+	Query: "ailuronyx" ; Times: 3
+	Query: "Anguis" ; Times: 3
+	Query: "Bunopus spatalurus" ; Times: 1
+	Query: "Chamaleo senegalensis" ; Times: 1
+	Query: "phyllodactylus gerrhopygus" ; Times: 1
+	Query: "Chioninia stangeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 327 download events in this period)
+Total number of records downloaded: 1473
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 14
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 6
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 5
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "hyla plicata" ; Times: 4
+	Query: "Lacerta vivipara" ; Times: 2
+	Query: "heloderma horridum" ; Times: 4
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Lygosoma quadrupes" ; Times: 1
+	Query: "phyllomedusa sauvagii" ; Times: 1
+	Query: "phyllomedusa vaillanti" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "Epictia signata" ; Times: 1
+	Query: "Telmatobius peruvianus" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "Amphisbaena caeca" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Chamaleo senegalensis" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+
+
+End of report.
