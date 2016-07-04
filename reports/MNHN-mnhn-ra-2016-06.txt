@@ -1,0 +1,339 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1758
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 4
+	Country: United States ; Times: 74
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 20
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 20
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-23 ; Times: 11
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-21 ; Times: 7
+	Date: 2016-06-20 ; Times: 15
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-07 ; Times: 13
+	Date: 2016-06-06 ; Times: 8
+	Date: 2016-06-01 ; Times: 10
+	Date: 2016-06-03 ; Times: 9
+	Date: 2016-06-02 ; Times: 24
+	Date: 2016-06-09 ; Times: 6
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-19 ; Times: 8
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 19
+	Date: 2016-06-15 ; Times: 7
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Hydrophis laboutei" ; Times: 1
+	Query: "Callagur borneoensis" ; Times: 1
+	Query: "dendroaspis jamesoni" ; Times: 2
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "ptychozoon lionotum" ; Times: 2
+	Query: "Podocnemis sextuberculata" ; Times: 1
+	Query: "Calotes versicolor mnhn" ; Times: 1
+	Query: "Macrochelys Mississippi" ; Times: 2
+	Query: "vipera raddei" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 3
+	Query: "Naja anchietae" ; Times: 4
+	Query: "Naja crawshayi" ; Times: 1
+	Query: "oreophrynella" ; Times: 1
+	Query: "Crocodylus johnsoni" ; Times: 1
+	Query: "pleurodema borellii" ; Times: 1
+	Query: "Candoia bibroni futuna" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "macrovipera" ; Times: 1
+	Query: "vanderhaegei" ; Times: 1
+	Query: "pleurodema tucumanum" ; Times: 1
+	Query: "Bothrops insularis" ; Times: 1
+	Query: "Calliophis melanurus" ; Times: 1
+	Query: "Kachuga dhongoka" ; Times: 1
+	Query: "tropidodipsas annulifera" ; Times: 1
+	Query: "Pseudoxyrhopus" ; Times: 1
+	Query: "Tarentola gigas" ; Times: 2
+	Query: "Bufo periglenes" ; Times: 1
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 2
+	Query: "county:&#34;MEXICO&#34;" ; Times: 2
+	Query: "Pseudoxyrhopus imerinae" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Bavayia madjo" ; Times: 3
+	Query: "trimeresurus macrolepis type:specimen" ; Times: 1
+	Query: "Phrynops gibbus" ; Times: 1
+	Query: "thamnophis scaliger" ; Times: 2
+	Query: "Typhlops microcephalus" ; Times: 1
+	Query: "Phrynops tuberculatus" ; Times: 1
+	Query: "Pseudoeurycea gigantea" ; Times: 1
+	Query: "Langaha alluaudi" ; Times: 5
+	Query: "Batagur baska" ; Times: 1
+	Query: "Casuarina equisetifolia" ; Times: 2
+	Query: "ctenosaura palearis" ; Times: 1
+	Query: "Elapsoidea trapei" ; Times: 1
+	Query: "pseudoeurycea gigantea" ; Times: 1
+	Query: "Pelophylax lessonae 1" ; Times: 17
+	Query: "Pseudoxyrhopus quinquelineatus" ; Times: 1
+	Query: "Scutiger nepalensis institutioncode:MNHN" ; Times: 2
+	Query: "Calliophis bibroni" ; Times: 1
+	Query: "Hydrophis mamillaris" ; Times: 1
+	Query: "Hydrophis gracilis" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "trimeresurus hageni type:specimen" ; Times: 1
+	Query: "Acanthochelys spixii" ; Times: 1
+	Query: "elachistocleis pearsei country:&#34;panama&#34;" ; Times: 1
+	Query: "azemiops" ; Times: 1
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "eryx jaculus turcicus" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "trimeresurus borneensis type:specimen" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "Homopus areolatus" ; Times: 1
+	Query: "Ptychozoon lionotum" ; Times: 2
+	Query: "Phrynops nasutus" ; Times: 1
+	Query: "Dendrobates azureus" ; Times: 2
+	Query: "scutiger boulengeri nepal" ; Times: 3
+	Query: "Calliophis nigrescens" ; Times: 1
+	Query: "Typhlops mucronatus" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "trimeresurus fucatus type:specimen" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "Ogmodon vitianus" ; Times: 4
+	Query: "Liolaemus huacahuasicus" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "Naja nubiae" ; Times: 3
+	Query: "Hydrophis belcheri" ; Times: 1
+	Query: "trimeresurus strigatus type:specimen" ; Times: 1
+	Query: "county:&#34;mexico&#34;" ; Times: 1
+	Query: "Penang Hill" ; Times: 1
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 1
+	Query: "bothrops pictus" ; Times: 1
+	Query: "Atretium schistosum" ; Times: 1
+	Query: "pseudocerastes persicus" ; Times: 1
+	Query: "Psammophis angolensis" ; Times: 4
+	Query: "uromastyx aegyptia" ; Times: 1
+	Query: "Varanus indicus " ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Chelus fimbriatus" ; Times: 1
+	Query: "Naja katiensis" ; Times: 1
+	Query: "Hemiphractus johnsoni" ; Times: 3
+	Query: "Hydromedusa maximiliani" ; Times: 1
+	Query: "Elapsoidea laticincta" ; Times: 1
+	Query: "yniphora" ; Times: 1
+	Query: "Psammophylax multisquamis" ; Times: 1
+	Query: "Acanthochelys radiolata" ; Times: 1
+	Query: "Kolpophis annandalei" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hydrophis cantoris" ; Times: 1
+	Query: "Dipsas copei" ; Times: 1
+	Query: "Chelodina oblonga" ; Times: 1
+	Query: "ovophis tonkinensis type:specimen" ; Times: 1
+	Query: "Geagras redimitus" ; Times: 1
+	Query: "Atractus schach" ; Times: 1
+	Query: "Ogmodon" ; Times: 2
+	Query: "trimeresurus fasciatus type:specimen" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 1
+	Query: "Pseudoxyrhopus heterurus" ; Times: 2
+	Query: "Python molurus " ; Times: 2
+	Query: "MNHN 2011.1100" ; Times: 1
+	Query: "lampropeltis abnorma" ; Times: 2
+	Query: "Sacalia bealei" ; Times: 2
+	Query: "trimeresurus gramineus type:specimen" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "echis pyramidum type:specimen" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 2
+	Query: "Pseudohaje nigra" ; Times: 3
+	Query: "ovophis monticola type:specimen" ; Times: 1
+	Query: "Erymnochelys" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 133 (out of 1052 download events in this period)
+Total number of records downloaded: 16597
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 55
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 41
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 16
+	Country: Japan ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 12
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 12
+	Date: 2016-06-16 ; Times: 14
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-13 ; Times: 12
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 16
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-18 ; Times: 4
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-03 ; Times: 8
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-07 ; Times: 12
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothriechis" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Leptodactylus insularum" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 2
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Hydrophis inornatus" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "echis pyramidum type:specimen" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "pleurodema tucumanum" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Bothrops insularis" ; Times: 1
+	Query: "Calliophis melanurus" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "tropidodipsas annulifera" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "bavayia" ; Times: 1
+	Query: "ctenosaura quinquecarinata" ; Times: 1
+	Query: "porthidium nasutum type:specimen" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "Naja katiensis" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Sphaerodactylus townsendi" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "Trachemys" ; Times: 1
+	Query: "ctenosaura hemilopha" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Sphaerodactylus klauberi" ; Times: 1
+	Query: "Elapsoidea trapei" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "trimeresurus hageni type:specimen" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Hydrophis gracilis" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "trimeresurus borneensis type:specimen" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Dendrobates azureus" ; Times: 1
+	Query: "Tylototriton" ; Times: 2
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Emydocephalus annulatus" ; Times: 1
+	Query: "ctenosaura palearis" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "bothrops asper" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Craugastor fitzingeri AND (NOT Brazil)" ; Times: 1
+	Query: "Mauremys" ; Times: 1
+	Query: "Laticauda saintgironsi" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Chrysemys" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "Calliophis bibroni" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Psammophylax multisquamis" ; Times: 1
+	Query: "Hydrophis lapemoides" ; Times: 1
+	Query: "Sphaerodactylus nicholsi" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "ovophis tonkinensis type:specimen" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "hemidactylus persicus" ; Times: 1
+	Query: "Emydura" ; Times: 1
+	Query: "trimeresurus gramineus type:specimen" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "porthidium ophryomegas type:specimen" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "pleurodema" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "trimeresurus fasciatus type:specimen" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 3
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "pleurodema borellii" ; Times: 1
+	Query: "deinagkistrodon acutus type:specimen" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Pseudohaje nigra" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "ovophis monticola type:specimen" ; Times: 1
+
+
+End of report.
