@@ -1,0 +1,235 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 3962
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United Kingdom ; Times: 77
+	Country: Australia ; Times: 9
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 10
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-13 ; Times: 13
+	Date: 2016-07-12 ; Times: 5
+	Date: 2016-07-15 ; Times: 10
+	Date: 2016-07-17 ; Times: 5
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 6
+	Date: 2016-07-18 ; Times: 8
+	Date: 2016-07-20 ; Times: 4
+	Date: 2016-07-05 ; Times: 4
+	Date: 2016-07-24 ; Times: 6
+	Date: 2016-07-26 ; Times: 4
+	Date: 2016-07-27 ; Times: 9
+	Date: 2016-07-06 ; Times: 3
+	Date: 2016-07-21 ; Times: 4
+	Date: 2016-07-22 ; Times: 6
+	Date: 2016-07-23 ; Times: 4
+	Date: 2016-07-08 ; Times: 4
+	Date: 2016-07-09 ; Times: 3
+	Date: 2016-07-28 ; Times: 30
+	Date: 2016-07-29 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "Dromophis praeornatus" ; Times: 1
+	Query: "ARTHROSAURA KOCKII" ; Times: 3
+	Query: "1966.646" ; Times: 1
+	Query: "Apalone Wabash Indiana" ; Times: 1
+	Query: "Adenomera heyeri" ; Times: 4
+	Query: "institutioncode:MNHN" ; Times: 3
+	Query: "gallotia" ; Times: 1
+	Query: "Boiga blandingi" ; Times: 1
+	Query: "Anambas" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "Mehelya stenophthalmus" ; Times: 1
+	Query: "chamaeleolis" ; Times: 1
+	Query: "Abronia aurita" ; Times: 1
+	Query: "amphiesma boulengeri" ; Times: 1
+	Query: "Agama insularis" ; Times: 1
+	Query: "Abastor" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Philothamnus nitidus" ; Times: 1
+	Query: "1966.703" ; Times: 1
+	Query: "1966.702" ; Times: 1
+	Query: "1966.700" ; Times: 1
+	Query: "khasiensis" ; Times: 1
+	Query: "Polemon gabonensis" ; Times: 1
+	Query: "1966.705" ; Times: 2
+	Query: "1966.704" ; Times: 1
+	Query: "Chamaelycus fasciatus" ; Times: 1
+	Query: "1966.755" ; Times: 1
+	Query: "Hydrodynastes bicinctus" ; Times: 2
+	Query: "1965.14" ; Times: 2
+	Query: "1965.11" ; Times: 1
+	Query: "atelopus barbotini" ; Times: 2
+	Query: "tarentola delalandii" ; Times: 2
+	Query: "Tropidurus spinulosus" ; Times: 3
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "Graptemys Wabash Indiana" ; Times: 1
+	Query: "scutulatus salvini" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Agama weidholzi" ; Times: 2
+	Query: "Typhlops caecus" ; Times: 1
+	Query: "1966.739" ; Times: 1
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "Bolitoglossa sima" ; Times: 1
+	Query: "Crotaphopeltis degeni" ; Times: 1
+	Query: "Amphiesma stolatum" ; Times: 1
+	Query: "khasiensis (amphiesma)" ; Times: 1
+	Query: "Iphisa elegans" ; Times: 1
+	Query: "Thrasops aethiopissa" ; Times: 1
+	Query: "Pelophylax lessonae 1" ; Times: 1
+	Query: "kalamata" ; Times: 1
+	Query: "trionyx triunguis" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 2
+	Query: "1966.725" ; Times: 3
+	Query: "1966.724" ; Times: 1
+	Query: "Hapsidophrys lineatus" ; Times: 4
+	Query: "Grayia tholloni" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "furcifer hastypestatus:1" ; Times: 1
+	Query: "Causus lichtensteini" ; Times: 3
+	Query: "Python molurus" ; Times: 1
+	Query: "azemiops" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 4
+	Query: "leptolalax eos" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 2
+	Query: "Brazzaville" ; Times: 9
+	Query: "1966.689" ; Times: 1
+	Query: "1966.682" ; Times: 1
+	Query: "1966.681" ; Times: 1
+	Query: "Rhamnophis aethiopissa" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 2
+	Query: "elaphe longissima" ; Times: 1
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 1
+	Query: "Bitis lachesis" ; Times: 1
+	Query: "1886.221" ; Times: 1
+	Query: "1966.699" ; Times: 1
+	Query: "Mehelya poensis" ; Times: 1
+	Query: "1966.691" ; Times: 3
+	Query: "Lycodon effraenis" ; Times: 1
+	Query: "Hypsiglena affinis" ; Times: 5
+	Query: "Naja atra" ; Times: 1
+	Query: "Boiga pulverulenta" ; Times: 3
+	Query: "Aplopeltura boa" ; Times: 2
+	Query: "lycodon effraenis" ; Times: 2
+	Query: "Allobates granti" ; Times: 2
+	Query: "1965.388" ; Times: 1
+	Query: "Vipera xanthina" ; Times: 6
+	Query: "Thrasops jacksoni" ; Times: 1
+	Query: "lessonae" ; Times: 3
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Lambert M" ; Times: 1
+	Query: "1966.767" ; Times: 1
+	Query: "1966.766" ; Times: 1
+	Query: "Leptotyphlops septemstriatus" ; Times: 1
+	Query: "Python sebae" ; Times: 5
+	Query: "geophis mutitorques" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 2
+	Query: "trachylepis mekuana" ; Times: 1
+	Query: "1966.679" ; Times: 1
+	Query: "Thelotornis kirtlandi" ; Times: 1
+	Query: "gbifdatasetid:217b0d4f-c87e-4063-b6c5-78277e40e866" ; Times: 2
+	Query: "vipera berus" ; Times: 2
+	Query: "heyeri" ; Times: 1
+	Query: "Typhlops grandidieri" ; Times: 1
+	Query: "Typhlops boulengeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1219 download events in this period)
+Total number of records downloaded: 2170
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-25 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-14 ; Times: 2
+	Date: 2016-07-22 ; Times: 2
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-18 ; Times: 2
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-28 ; Times: 3
+	Date: 2016-07-13 ; Times: 2
+	Date: 2016-07-29 ; Times: 1
+	Date: 2016-07-05 ; Times: 2
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-20 ; Times: 9
+	Date: 2016-07-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "leptolalax eos" ; Times: 1
+	Query: "ARTHROSAURA KOCKII" ; Times: 1
+	Query: "hyla plicata" ; Times: 2
+	Query: "rhacophorus appendiculatus" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 2
+	Query: "bitis" ; Times: 1
+	Query: "Brazzaville" ; Times: 1
+	Query: "Cercosaura ocellata" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "hyla eximia" ; Times: 2
+	Query: "Meizodon" ; Times: 1
+	Query: "Adenomera hylaedactyla" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 1
+	Query: "(glaphyromorphus OR sphenomorphus)" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "liophis" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Liophis reginae" ; Times: 1
+	Query: "amphiesma stolatum" ; Times: 1
+	Query: "Finsch" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Leptotyphlops humilis" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "elaphe guttata" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "Pseudoeurycea gadovii" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "atelopus barbotini" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "Liophis melanotus" ; Times: 1
+
+
+End of report.
