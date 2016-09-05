@@ -1,0 +1,258 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 809
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 83
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 7
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 4
+	Date: 2016-08-29 ; Times: 6
+	Date: 2016-08-15 ; Times: 5
+	Date: 2016-08-16 ; Times: 17
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 9
+	Date: 2016-08-27 ; Times: 30
+	Date: 2016-08-26 ; Times: 7
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 13
+	Date: 2016-08-25 ; Times: 14
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Panaspis breviceps" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+	Query: "emys blandingii" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "Kolpophis annandalei" ; Times: 4
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 1
+	Query: "crotalus salvini" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Uropeltis beddomii" ; Times: 2
+	Query: "Pseudoficimia" ; Times: 1
+	Query: "calliophis melanurus" ; Times: 2
+	Query: "Oxyrhabdium country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Crotalus salvini" ; Times: 1
+	Query: "Sepsina angolensis" ; Times: 1
+	Query: "lycodon flavomaculatus" ; Times: 2
+	Query: "anolis fraseri" ; Times: 1
+	Query: "ranodon sibiricus" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "philodryas nattereri" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "trimeresurus macrolepis" ; Times: 2
+	Query: "STEGONOTUS MUELLERI" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "bungarus flaviceps" ; Times: 1
+	Query: "anolis cyanopleurus" ; Times: 1
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 1
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "anolis ortoni" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "crocodylus acutus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "rhinobothryum" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "Scincella himalayana" ; Times: 4
+	Query: "Craugastor mexicanus" ; Times: 2
+	Query: "anolis festae" ; Times: 1
+	Query: "anolis macrophallus" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "county:&#34;choco&#34;" ; Times: 1
+	Query: "Gloydius intermedius" ; Times: 3
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Micrurus ancoralis" ; Times: 6
+	Query: "coniophanes lateritius" ; Times: 1
+	Query: "Speleomantes" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "Acontias" ; Times: 2
+	Query: "dryocalamus nympha" ; Times: 1
+	Query: "alexteroon" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "melanophidium" ; Times: 1
+	Query: "Thalassophis" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 22
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "Oligosoma lineoocellatum" ; Times: 1
+	Query: "xylophis" ; Times: 2
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "Triturus torosus" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 2
+	Query: "trivittata" ; Times: 2
+	Query: "Proceratophrys cristiceps" ; Times: 2
+	Query: "Acontias gracilicauda" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 8
+	Query: "boiga trigonata" ; Times: 1
+	Query: "abronia belize" ; Times: 1
+	Query: "Dasia olivacea" ; Times: 1
+	Query: "Trimeresurus strigatus" ; Times: 1
+	Query: "lycodon travancoricus" ; Times: 2
+	Query: "MNHN 1999.7718" ; Times: 1
+	Query: "Macroscincus coctei" ; Times: 1
+	Query: "petropedetes natator type:specimen" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "Scaphiopus hammondi" ; Times: 1
+	Query: "speleomantes" ; Times: 1
+	Query: "anolis chrysops" ; Times: 1
+	Query: "macroscincus coctei" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "pseudotyphlops" ; Times: 1
+	Query: "Uropeltis ellioti" ; Times: 2
+	Query: "anolis rubiginosus" ; Times: 1
+	Query: "Bothrops bicolor" ; Times: 1
+	Query: "&#34;Coleonyx variegatus variegatus&#34; Arizona" ; Times: 1
+	Query: "Trimeresurus fasciatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 105 (out of 924 download events in this period)
+Total number of records downloaded: 17110
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 73
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 6
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-29 ; Times: 17
+	Date: 2016-08-28 ; Times: 5
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 6
+	Date: 2016-08-26 ; Times: 12
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis transversalis" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "anolis valencienni" ; Times: 1
+	Query: "anolis chloris" ; Times: 1
+	Query: "anolis chrysops" ; Times: 1
+	Query: "anolis cyanopleurus" ; Times: 1
+	Query: "anolis dollfusianus" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "anolis vermiculatus" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "anolis lucius" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "Jullien" ; Times: 1
+	Query: "anolis stratulus" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "anolis townsendi" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "anolis ortoni" ; Times: 1
+	Query: "&#34;Coleonyx variegatus variegatus&#34; Arizona" ; Times: 4
+	Query: "anolis etheridgei" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "anolis uniformis" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "anolis scypheus" ; Times: 1
+	Query: "anolis pulchellus" ; Times: 1
+	Query: "anolis marmoratus marmoratus" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "anolis festae" ; Times: 1
+	Query: "anolis macrophallus" ; Times: 1
+	Query: "anolis fraseri" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "anolis marcanoi" ; Times: 1
+	Query: "anolis cupreus" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "coniophanes lateritius" ; Times: 2
+	Query: "Thousand Palms" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "anolis planiceps" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "anolis oculatus" ; Times: 1
+	Query: "anolis rubiginosus" ; Times: 1
+	Query: "anolis garmani" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "anolis granuliceps" ; Times: 1
+	Query: "anolis semilineatus" ; Times: 2
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "anolis sagrei" ; Times: 1
+	Query: "Scaphiopus hammondi" ; Times: 1
+	Query: "anolis chrysolepis chrysolepis" ; Times: 1
+
+
+End of report.
