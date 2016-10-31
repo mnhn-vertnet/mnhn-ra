@@ -1,0 +1,122 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 90
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 6
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Brachyophidium" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "Coniophanes lateritius" ; Times: 1
+	Query: "Pelophylax lessonae 1" ; Times: 3
+	Query: "Hypsiglena affinis" ; Times: 1
+	Query: "Thamnophis cyrtopsis Jalisco" ; Times: 1
+	Query: "Phrynosoma taurus" ; Times: 1
+	Query: "Pseudotyphlops" ; Times: 1
+	Query: "Teretrurus" ; Times: 1
+	Query: "Melanophidium" ; Times: 1
+	Query: "Thalassophis" ; Times: 1
+	Query: "Lampropeltis gentilis triangulum" ; Times: 1
+	Query: "Salamandrina" ; Times: 1
+	Query: "Salea" ; Times: 1
+	Query: "Phyllomedusa burmeisteri" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "Platyplectrurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 811 download events in this period)
+Total number of records downloaded: 670
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 11
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 11
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis tropidonotus" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "taipehensis" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "pseudoeurycea gadovii" ; Times: 2
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "Rhinophis" ; Times: 1
+	Query: "chiropterotriton" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "pseudoeurycea leprosa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Eremias namaquensis" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "Platyplectrurus" ; Times: 1
+	Query: "Rhinophrynus" ; Times: 1
+	Query: "Brachyophidium" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 1
+	Query: "Pseudotyphlops" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "atelopus ignescens" ; Times: 1
+	Query: "Teretrurus" ; Times: 2
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Melanophidium" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+
+
+End of report.
