@@ -1,0 +1,339 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 363
+Number of records retrieved in searches: 2614
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: France ; Times: 35
+	Country: Democratic Republic of the Congo ; Times: 1
+	Country: Israel ; Times: 39
+	Country: Australia ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: Czechia ; Times: 4
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 163
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 43
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-28 ; Times: 14
+	Date: 2018-04-23 ; Times: 6
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 5
+	Date: 2018-04-20 ; Times: 15
+	Date: 2018-04-27 ; Times: 12
+	Date: 2018-04-26 ; Times: 10
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 5
+	Date: 2018-04-01 ; Times: 12
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 13
+	Date: 2018-04-04 ; Times: 6
+	Date: 2018-04-07 ; Times: 15
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 18
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-16 ; Times: 20
+	Date: 2018-04-12 ; Times: 8
+	Date: 2018-04-13 ; Times: 28
+	Date: 2018-04-10 ; Times: 30
+	Date: 2018-04-11 ; Times: 17
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 19
+	Date: 2018-04-14 ; Times: 28
+	Date: 2018-04-15 ; Times: 10
+	Date: 2018-04-18 ; Times: 36
+	Date: 2018-04-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "alfredschmidti" ; Times: 1
+	Query: "Phoxophrys" ; Times: 3
+	Query: "Bufo brongersmai" ; Times: 1
+	Query: "Podocnemis vogli" ; Times: 1
+	Query: "Ceratophora" ; Times: 1
+	Query: "holotype Rhinella lescurei" ; Times: 2
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Scincella doriae" ; Times: 1
+	Query: "Batagur" ; Times: 1
+	Query: "Echis leucogaster" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 2
+	Query: "emys blandingii" ; Times: 3
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Hyalinobatrachium iaspidiense" ; Times: 2
+	Query: "ptychozoon lionotum" ; Times: 20
+	Query: "pseudobufo" ; Times: 1
+	Query: "crocodylus rhombifer" ; Times: 1
+	Query: "hemidactylus flaviviridis" ; Times: 2
+	Query: "cerf seychelles" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "anolis leachii" ; Times: 1
+	Query: "Oxyrhopus fitzingeri" ; Times: 1
+	Query: "Pseudocerastes persicus" ; Times: 2
+	Query: "rubrolineatus" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "micrurus latifasciatus" ; Times: 8
+	Query: "Panaspis togoensis" ; Times: 1
+	Query: "scientificname:Enyalioides laticeps " ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 2
+	Query: "Narudasia" ; Times: 3
+	Query: "Rhabdophis chrysargos Sulawesi" ; Times: 1
+	Query: "Rhabdophis chrysargos Java" ; Times: 1
+	Query: "Saurodactylus" ; Times: 2
+	Query: "Rhabdophis Java" ; Times: 2
+	Query: "Cuora yunnanensis" ; Times: 2
+	Query: "Scelotes inornatus" ; Times: 1
+	Query: "Rhinotyphlops scortecci" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 1
+	Query: "cnemaspis" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "Leptopelis zebra" ; Times: 3
+	Query: "Sceloporus lunaei" ; Times: 2
+	Query: "Poecilopholis cameronensis" ; Times: 2
+	Query: "Trioceros montium" ; Times: 1
+	Query: "Eristicophis macmahoni" ; Times: 2
+	Query: "scaphiopus hammondi" ; Times: 1
+	Query: "Tinian (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "echis pyramidum" ; Times: 2
+	Query: "Pseudoboa nigra" ; Times: 1
+	Query: "caiman latirostris" ; Times: 33
+	Query: "Mesalina olivieri" ; Times: 2
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Sitana" ; Times: 1
+	Query: "tasanae" ; Times: 1
+	Query: "Sphenomorphus Java" ; Times: 2
+	Query: "liotyphlops albirostris" ; Times: 10
+	Query: "hyla bocourti" ; Times: 1
+	Query: "nimbaphrynoides" ; Times: 1
+	Query: "Pachydactylus mariquensis" ; Times: 1
+	Query: "Scelotes caffer" ; Times: 1
+	Query: "amethistina" ; Times: 4
+	Query: "leptotyphlops melanotermus" ; Times: 1
+	Query: "Scelotes bidigittatus" ; Times: 1
+	Query: "Nucras holubi" ; Times: 1
+	Query: "phrynobatrachus auritus" ; Times: 2
+	Query: "Pachydactylus austeni" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "lygosoma quadrupes" ; Times: 1
+	Query: "Mabuya nigropunctata" ; Times: 2
+	Query: "scientificname:Atelopus elegans " ; Times: 1
+	Query: "leptotyphlops nicefori" ; Times: 2
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "Vipera monticola" ; Times: 1
+	Query: "Thamnodynastes chaquensis" ; Times: 1
+	Query: "Liotyphlops ternetzii" ; Times: 3
+	Query: "timon lepidus" ; Times: 1
+	Query: "Acontias occidentalis" ; Times: 2
+	Query: "Pachydactylus purcelli" ; Times: 1
+	Query: "Scelotes bipes" ; Times: 1
+	Query: "typhlops lineatus" ; Times: 1
+	Query: "Ovophis tonkinensis" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Ptychozoon lionotum" ; Times: 10
+	Query: "liolaemus signifer" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 1
+	Query: "Ptyas dipsas" ; Times: 3
+	Query: "Harpesaurus" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Bufotes viridis" ; Times: 1
+	Query: "leptotyphlops collaris" ; Times: 1
+	Query: "Rana montezumae" ; Times: 3
+	Query: "dubium" ; Times: 1
+	Query: "Coniophanes lateritius" ; Times: 3
+	Query: "Pseudoboa haasi" ; Times: 5
+	Query: "liopeltis" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "micrurus circinalis" ; Times: 3
+	Query: "micrurus elegans" ; Times: 10
+	Query: "Rhabdophis chrysargos" ; Times: 3
+	Query: "amphiesma modesta" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "micropechis ikaheka" ; Times: 1
+	Query: "Pachydactylus labialis" ; Times: 1
+	Query: "Oligodon ancorus" ; Times: 1
+	Query: "limnophis bicolor" ; Times: 1
+	Query: "Leptolalax ventripunctatus" ; Times: 1
+	Query: "Leptodrymus pulcherrimus" ; Times: 2
+	Query: "macroscincus" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 8
+	Query: "molossus 845" ; Times: 1
+	Query: "Hardella" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "bitis gabonica" ; Times: 2
+	Query: "micrurus distans" ; Times: 4
+	Query: "uromastyx aegyptia" ; Times: 4
+	Query: "Gastropholis" ; Times: 1
+	Query: "Chelonoidis nigra" ; Times: 2
+	Query: "chameleo" ; Times: 3
+	Query: "podarcis bocagei" ; Times: 1
+	Query: "Rhombophryne minuta" ; Times: 1
+	Query: "Ceratophora aspera" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "Porthidium ophryomegas" ; Times: 6
+	Query: "Rhinella lescurei" ; Times: 1
+	Query: "MNHN 1998-786" ; Times: 2
+	Query: "varanus griseus" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "Salea" ; Times: 1
+	Query: "Geophis latifrontalis" ; Times: 2
+	Query: "Cerastes cornutus" ; Times: 4
+	Query: "crocodylus acutus haiti" ; Times: 1
+	Query: "Cophotis" ; Times: 2
+	Query: "cyclemys dentata" ; Times: 1
+	Query: "Tropiocolotes steudneri" ; Times: 6
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "Tachymenis elongata" ; Times: 2
+	Query: "cyrtodactylus peguensis" ; Times: 3
+	Query: "Nanorana blanfordii" ; Times: 1
+	Query: "Callixalus pictus" ; Times: 1
+	Query: "Xenodon merremii" ; Times: 1
+	Query: "telescopus dhara" ; Times: 6
+	Query: "Phelsuma ocellata" ; Times: 1
+	Query: "Limnophis" ; Times: 2
+	Query: "Chelonoidis denticulata" ; Times: 1
+	Query: "Rhabdophis Sulawesi" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 7
+	Query: "Telescopus dhara" ; Times: 1
+	Query: "Lanthanotus" ; Times: 3
+	Query: "typhlophis squamosus" ; Times: 2
+	Query: "sphenomorphus multisquamatus" ; Times: 1
+	Query: "Mauremys annamensis" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 3
+	Query: "rana labialis" ; Times: 2
+	Query: "Echis pyramidum" ; Times: 8
+	Query: "Cyclemys dentata" ; Times: 1
+	Query: "macroprotodon cucullatus" ; Times: 4
+	Query: "Staurotypus Salvinii" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1359 download events in this period)
+Total number of records downloaded: 1142
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 33
+	Country: Israel ; Times: 16
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-23 ; Times: 13
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-01 ; Times: 7
+	Date: 2018-04-03 ; Times: 5
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-07 ; Times: 8
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovophis tonkinensis" ; Times: 1
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "emys blandingii" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "Caqueta" ; Times: 3
+	Query: "liolaemus signifer" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "echis pyramidum" ; Times: 1
+	Query: "Scincella doriae" ; Times: 1
+	Query: "sceloporus malachiticus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Bufotes viridis" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "Rana montezumae" ; Times: 2
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "bothrops asper" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Pachydactylus mariquensis" ; Times: 1
+	Query: "sceloporus smaragdinus" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "Scelotes caffer" ; Times: 1
+	Query: "Tinian (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Scelotes bidigittatus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Phelsuma ocellata" ; Times: 1
+	Query: "Rana areolata" ; Times: 1
+	Query: "Scelotes bipes" ; Times: 1
+	Query: "Nucras holubi" ; Times: 1
+	Query: "Pachydactylus labialis" ; Times: 1
+	Query: "Pachydactylus austeni" ; Times: 1
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "Oxyrhopus fitzingeri" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+
+
+End of report.
