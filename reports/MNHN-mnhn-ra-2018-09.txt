@@ -1,0 +1,310 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 1879
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 3
+	Country: Saudi Arabia ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 8
+	Country: China ; Times: 1
+	Country: Germany ; Times: 19
+	Country: Peru ; Times: 4
+	Country: Sweden ; Times: 11
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 61
+	Country: Ecuador ; Times: 4
+	Country: Ukraine ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 7
+	Date: 2018-09-26 ; Times: 14
+	Date: 2018-09-01 ; Times: 12
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 10
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 5
+	Date: 2018-09-28 ; Times: 6
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 7
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-12 ; Times: 5
+	Date: 2018-09-14 ; Times: 7
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-19 ; Times: 26
+	Date: 2018-09-18 ; Times: 13
+	Date: 2018-09-02 ; Times: 4
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-20 ; Times: 21
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla schistosa" ; Times: 1
+	Query: "Leptodeira frenata frenata" ; Times: 1
+	Query: "Micrelaps" ; Times: 3
+	Query: "Indotyphlops braminus" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:MNHN" ; Times: 8
+	Query: "Telmatobius jelskii" ; Times: 2
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Mus nativitatis" ; Times: 1
+	Query: "Calamelaps" ; Times: 1
+	Query: "Aipysurus" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "Trachylepis perrotetii" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 3
+	Query: "Leptopelis calcaratus mappable:1" ; Times: 3
+	Query: "puya" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "Sceloporus tehuacan" ; Times: 2
+	Query: "Leptotyphlops goudotii phenops" ; Times: 1
+	Query: "Brookesia bonsi" ; Times: 5
+	Query: "verruculatus" ; Times: 1
+	Query: "Mabuya frenata" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "Atelopus longirostris" ; Times: 1
+	Query: "Spilotes pullatus mexicanus" ; Times: 1
+	Query: "Barisia imbricata Guanajuato" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "parafimbrios" ; Times: 1
+	Query: "kinixys erosa congo" ; Times: 1
+	Query: "Bombina maxima" ; Times: 2
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 2
+	Query: "Alluaudina" ; Times: 1
+	Query: "Calamaria gimletti" ; Times: 1
+	Query: "megophrys major" ; Times: 2
+	Query: "Geodipsas" ; Times: 4
+	Query: "Mantidactylus femoralis" ; Times: 1
+	Query: "institutioncode:mnhn Angkor" ; Times: 1
+	Query: "Sibon dimidiata dimidiata" ; Times: 3
+	Query: "Acanthodactylus guineensis" ; Times: 1
+	Query: "Varanus cerambonensis" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 4
+	Query: "Rhacodactylus ciliatus" ; Times: 1
+	Query: "bothrops belize" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Lepidothyris" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "locality:minas gerais year &gt;= 1890 year &lt;= 1907" ; Times: 1
+	Query: "Atelopus elegans" ; Times: 1
+	Query: "fimbrios" ; Times: 3
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "Drymobius chloroticus" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 4
+	Query: "siphlophis" ; Times: 1
+	Query: "simalia" ; Times: 1
+	Query: "Phelsuma madagascariensis grandis" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "bothrops bilineata" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "Limnomedusa macroglossa" ; Times: 1
+	Query: "Pareas boulengeri" ; Times: 1
+	Query: "bothrops asper" ; Times: 5
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Eristicophis" ; Times: 1
+	Query: "Tropidodipsas sartorii sartorii" ; Times: 1
+	Query: "&#34;Melanophryniscus atroluteus &#34;" ; Times: 1
+	Query: "ardouini" ; Times: 1
+	Query: "county:&#34;mexico&#34;" ; Times: 1
+	Query: "institutioncode:mnhn cambodge pfeffer" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "scelotes johannae" ; Times: 1
+	Query: "triturus carnifex" ; Times: 2
+	Query: "Vipera lebetina" ; Times: 4
+	Query: "amyda cartilaginea" ; Times: 1
+	Query: "Ancistrodon" ; Times: 1
+	Query: "barisia imbricata Guanajuato" ; Times: 1
+	Query: "terrapene carolina New York" ; Times: 1
+	Query: "MNHN 1986.535" ; Times: 2
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "ceratophora" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 2
+	Query: "Lily Rodriguez" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "Agkistrodon halys" ; Times: 2
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "Hyla biobeba" ; Times: 1
+	Query: "bronchocela smaragdina" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Crotalus Guanajuato" ; Times: 2
+	Query: "MNHN 6194" ; Times: 1
+	Query: "leptodactylus longirostris" ; Times: 1
+	Query: "Walterinnesia" ; Times: 1
+	Query: "Compsophis" ; Times: 1
+	Query: "Coluber constrictor oaxaca" ; Times: 1
+	Query: "Xenodon rabdocephalus mexicanus" ; Times: 1
+	Query: "Eryx jayakari" ; Times: 1
+	Query: "locality:minas gerais year &gt;= 1900 year &lt;= 1907" ; Times: 1
+	Query: "lycognathophis MNHN" ; Times: 1
+	Query: "boa constrictor belize" ; Times: 1
+	Query: "Paleosuchus trigonatus" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 2
+	Query: "MNHN 2010.182" ; Times: 1
+	Query: "Lachesis muta" ; Times: 3
+	Query: "ambystoma jeffersonianum maryland" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 846 download events in this period)
+Total number of records downloaded: 2976
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 44
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-17 ; Times: 11
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 31
+	Date: 2018-09-18 ; Times: 26
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla schistosa" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "oedura lesueurii" ; Times: 1
+	Query: "Ninia diademata diademata" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:MNHN" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Trachylepis perrotetii" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "Coniophanes imperialis imperialis" ; Times: 1
+	Query: "Leptotyphlops goudotii phenops" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "Spilotes pullatus mexicanus" ; Times: 1
+	Query: "anolis sagrei country:&#34;cuba&#34;" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Alluaudina" ; Times: 1
+	Query: "Drymarchon melanurus melanurus" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "Ninia sebae sebae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "Sibon dimidiata dimidiata" ; Times: 2
+	Query: "amphiuma means" ; Times: 1
+	Query: "MONOPELTIS" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Trachylepis quinquetaeniata" ; Times: 1
+	Query: "Mabuya mabouya" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Sambar" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+	Query: "Trachylepis maculilabris" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Drymobius chloroticus" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Pareas boulengeri" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "macroclemys" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Pareas hamptoni" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Micrurus diastema diastema" ; Times: 1
+	Query: "Sibon sanniola" ; Times: 1
+	Query: "Dicrodon holmbergi" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Trachylepis striata" ; Times: 1
+	Query: "Trachylepis varia" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Coluber constrictor oaxaca" ; Times: 1
+	Query: "Xenodon rabdocephalus mexicanus" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Trimorphodon tau tau" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Coniophanes ﬁssidens ﬁssidens" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+
+End of report.
