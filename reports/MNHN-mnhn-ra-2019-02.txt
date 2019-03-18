@@ -1,0 +1,322 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 309
+Number of records retrieved in searches: 2574
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Turkey ; Times: 7
+	Country: Panama ; Times: 2
+	Country: France ; Times: 18
+	Country: Ireland ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Israel ; Times: 26
+	Country: Australia ; Times: 13
+	Country: Iran ; Times: 2
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 7
+	Country: Hong Kong ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Poland ; Times: 4
+	Country: United States ; Times: 70
+	Country: Hungary ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 60
+	Country: South Africa ; Times: 4
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 38
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Fiji ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 7
+	Date: 2019-02-23 ; Times: 8
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-10 ; Times: 18
+	Date: 2019-02-13 ; Times: 21
+	Date: 2019-02-12 ; Times: 24
+	Date: 2019-02-15 ; Times: 17
+	Date: 2019-02-14 ; Times: 10
+	Date: 2019-02-17 ; Times: 12
+	Date: 2019-02-16 ; Times: 8
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-02 ; Times: 8
+	Date: 2019-02-03 ; Times: 13
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-01 ; Times: 36
+	Date: 2019-02-20 ; Times: 6
+	Date: 2019-02-07 ; Times: 23
+	Date: 2019-02-04 ; Times: 7
+	Date: 2019-02-05 ; Times: 13
+	Date: 2019-02-08 ; Times: 16
+	Date: 2019-02-09 ; Times: 6
+	Date: 2019-02-28 ; Times: 7
+	Date: 2019-02-24 ; Times: 3
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-27 ; Times: 3
+	Date: 2019-02-06 ; Times: 11
+	Date: 2019-02-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Tricheilostoma broadleyi" ; Times: 1
+	Query: "Pseudohaje" ; Times: 1
+	Query: "Anolis chrysops" ; Times: 2
+	Query: "Calamaria grabowskyi" ; Times: 1
+	Query: "Phelsuma barbouri" ; Times: 1
+	Query: "Amplorhinus multimaculatus" ; Times: 1
+	Query: "pseudocordylus microlepidotus" ; Times: 1
+	Query: "Azemiops feae" ; Times: 1
+	Query: "MNHN 1904.67" ; Times: 2
+	Query: "emys orbicularis" ; Times: 2
+	Query: "Rhacophorus duboisi" ; Times: 4
+	Query: "tiliqua gigas" ; Times: 1
+	Query: "Apostolepis assimilis" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Eunectes mappable:1" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "siphonops" ; Times: 1
+	Query: "atheris broadleyi" ; Times: 1
+	Query: "Podocnemis lewyana" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "Platymantis vitiensis" ; Times: 2
+	Query: "Chalcides sexlineatus" ; Times: 1
+	Query: "Stenodactylus petrii" ; Times: 4
+	Query: "bolitoglossa mulleri" ; Times: 1
+	Query: "Eirenis coronella" ; Times: 3
+	Query: "vernet" ; Times: 1
+	Query: "Corallus mappable:1" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "Brachytarsophrys" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "dendrolycus" ; Times: 3
+	Query: "Anolis kahouannensis" ; Times: 2
+	Query: "coluber jugularis" ; Times: 1
+	Query: "Atractaspis congica" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "Achalinus niger" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 4
+	Query: "ambystoma trigrinum" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "Hemiphractus scutatus" ; Times: 2
+	Query: "naja haje" ; Times: 1
+	Query: "Calliophis melanurus" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "nesomantis" ; Times: 1
+	Query: "Atheris anisolepis" ; Times: 1
+	Query: "Atheris broadleyi" ; Times: 4
+	Query: "Anolis terraealtae" ; Times: 1
+	Query: "Contomastix lacertoides" ; Times: 1
+	Query: "Tropiocolotes nattereri" ; Times: 2
+	Query: "pez" ; Times: 1
+	Query: "mantipus" ; Times: 1
+	Query: "podocnemis vogli" ; Times: 2
+	Query: "Ptyodactylus guttatus" ; Times: 2
+	Query: "Crocodylus moreletii" ; Times: 17
+	Query: "MNHN 1964.489" ; Times: 2
+	Query: "Leptodeira nigrofasciata" ; Times: 1
+	Query: "echis coloratus" ; Times: 2
+	Query: "MNHN 1903.58" ; Times: 1
+	Query: "scincopus" ; Times: 3
+	Query: "Pseudocordylus" ; Times: 2
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Liophidium therezieni" ; Times: 1
+	Query: "Phelsuma nigristriata" ; Times: 2
+	Query: "caecilia" ; Times: 2
+	Query: "Varanus griseus" ; Times: 6
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "jalisco rana (pipiens)" ; Times: 1
+	Query: "Wynaad" ; Times: 1
+	Query: "trogonophis" ; Times: 4
+	Query: "Amblyodipsas rodhaini" ; Times: 1
+	Query: "coluber rubriceps" ; Times: 1
+	Query: "telescopus dhara" ; Times: 1
+	Query: "Liopeltis" ; Times: 2
+	Query: "Dendrobates tinctorius" ; Times: 4
+	Query: "Atractaspis microlepidota" ; Times: 1
+	Query: "diadophis jalisco" ; Times: 1
+	Query: "county:&#34;France&#34;" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 3
+	Query: "multifasciata lampropeltis" ; Times: 2
+	Query: "Phyllobates bicolor" ; Times: 1
+	Query: "Leptopelis palmatus" ; Times: 1
+	Query: "Clelia errabunda" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 2
+	Query: "vogeli" ; Times: 2
+	Query: "Chalcides mertensi" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Sphenomorphus cyanolaemus" ; Times: 4
+	Query: "Achalinus ater" ; Times: 2
+	Query: "rubropunctata" ; Times: 1
+	Query: "vipera ursinii" ; Times: 3
+	Query: "boeleni" ; Times: 1
+	Query: "Vipera palaestinae" ; Times: 7
+	Query: "Acrantophis madagascariensis" ; Times: 2
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Hyla pinorum" ; Times: 1
+	Query: "Pseudocerastes Pakistan" ; Times: 1
+	Query: "Afronatrix mappable:1" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Leptodrymus pulcherrimus" ; Times: 3
+	Query: "salvadora bairdi" ; Times: 6
+	Query: "Eryx johnii" ; Times: 5
+	Query: "Chamaeleo africanus" ; Times: 3
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+	Query: "Paracontias rothschildi" ; Times: 3
+	Query: "Oplurus cuvieri" ; Times: 2
+	Query: "gavialis" ; Times: 2
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "oscaecilia ochrocephala" ; Times: 2
+	Query: "agama spinosa" ; Times: 6
+	Query: "Atractus favae" ; Times: 2
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "lampropeltis multifasciata" ; Times: 4
+	Query: "lycodon ruhstrati" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Brachytarsophrys carinensis" ; Times: 1
+	Query: "bitis caudalis" ; Times: 2
+	Query: "crotalus lepidus jalisco" ; Times: 1
+	Query: "Chalcides coeruleopunctatus" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "pseudobufo subasper" ; Times: 2
+	Query: "Varanus rudicollis" ; Times: 2
+	Query: "rhacophorus prominanus" ; Times: 1
+	Query: "Tropiocolotes steudneri" ; Times: 5
+	Query: "GEochelone carbonaria" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "mimophis" ; Times: 1
+	Query: "Varanus nuchalis" ; Times: 2
+	Query: "storeria jalisco" ; Times: 1
+	Query: "bitis nasicornis" ; Times: 7
+	Query: "furcifer pardalis" ; Times: 4
+	Query: "Coluber sinai" ; Times: 1
+	Query: "Hydraethiops mappable:1" ; Times: 1
+	Query: "hynobius chinensis" ; Times: 1
+	Query: "Triturus karelinii" ; Times: 2
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Trogonophis" ; Times: 1
+	Query: "Rabdion" ; Times: 1
+	Query: "Tropidodipsas Yucatan" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 11
+	Query: "Oligodon cinereus" ; Times: 2
+	Query: "MNHN 03-58 A" ; Times: 2
+	Query: "county:&#34;Mexico&#34;" ; Times: 2
+	Query: "Heterodon simus" ; Times: 1
+	Query: "phelsuma grandis" ; Times: 1
+	Query: "gumprechti" ; Times: 1
+	Query: "thamnophis cyrtopsis jalisco" ; Times: 1
+	Query: "Calabaria mappable:1" ; Times: 1
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "MNHN 1905.216" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Bolitoglossa dunni" ; Times: 1
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "bolyeria" ; Times: 1
+	Query: "Spalerosophis" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "county:&#34;Rio Muni&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1227 download events in this period)
+Total number of records downloaded: 1659
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 8
+	Country: Israel ; Times: 7
+	Country: Iran ; Times: 4
+	Country: Mexico ; Times: 22
+	Country: Poland ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 7
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 7
+	Date: 2019-02-16 ; Times: 5
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Atractaspis congica" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Amplorhinus multimaculatus" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "Azemiops feae" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Mesalina olivieri" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "county:&#34;Mexico&#34;" ; Times: 1
+	Query: "podocnemis vogli" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Apostolepis assimilis" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 3
+	Query: "Sphenomorphus cyanolaemus" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Triturus karelinii" ; Times: 4
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "Oligodon cinereus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "caecilia" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 1
+	Query: "jalisco rana (pipiens)" ; Times: 1
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 2
+	Query: "Atheris broadleyi" ; Times: 1
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "Atractaspis microlepidota" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+
+
+End of report.
