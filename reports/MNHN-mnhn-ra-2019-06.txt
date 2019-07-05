@@ -1,0 +1,265 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 2515
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 65
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: Panama ; Times: 8
+	Country: France ; Times: 7
+	Country: Slovakia ; Times: 2
+	Country: Nigeria ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 4
+	Country: Hong Kong ; Times: 11
+	Country: Spain ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 75
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Tunisia ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 18
+	Date: 2019-06-21 ; Times: 10
+	Date: 2019-06-22 ; Times: 3
+	Date: 2019-06-23 ; Times: 2
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 10
+	Date: 2019-06-08 ; Times: 11
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 26
+	Date: 2019-06-07 ; Times: 5
+	Date: 2019-06-04 ; Times: 8
+	Date: 2019-06-05 ; Times: 11
+	Date: 2019-06-02 ; Times: 6
+	Date: 2019-06-03 ; Times: 9
+	Date: 2019-06-26 ; Times: 15
+	Date: 2019-06-27 ; Times: 8
+	Date: 2019-06-28 ; Times: 5
+	Date: 2019-06-29 ; Times: 4
+	Date: 2019-06-19 ; Times: 4
+	Date: 2019-06-18 ; Times: 4
+	Date: 2019-06-30 ; Times: 12
+	Date: 2019-06-15 ; Times: 2
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-11 ; Times: 19
+	Date: 2019-06-10 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "Pleurodeles nebulosus" ; Times: 1
+	Query: "boophis ankaratra" ; Times: 2
+	Query: "mnhn 2008-1027" ; Times: 1
+	Query: "Hemirhagerrhis nototaenia" ; Times: 5
+	Query: "micrurus ornatissimus" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: "taitanus" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+	Query: "Nanorana unculuanus" ; Times: 1
+	Query: "Opisthotropis" ; Times: 2
+	Query: "Micrurus latifasciatus" ; Times: 1
+	Query: "chamaeleolis" ; Times: 1
+	Query: "Geochelone carbonaria" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Micrurus distans" ; Times: 2
+	Query: "Micrurus ancoralis" ; Times: 1
+	Query: "Brachycephalus ephippium" ; Times: 1
+	Query: "MNHN 4323" ; Times: 1
+	Query: "Elaphe moellendorffi" ; Times: 2
+	Query: "Micrurus carvalhoi" ; Times: 1
+	Query: "serpents" ; Times: 1
+	Query: "Celestus occiduus" ; Times: 1
+	Query: "Xenopus epitropicalis" ; Times: 1
+	Query: "Bungarus multicinctus" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "Pleurodema bufonina" ; Times: 1
+	Query: "rana iberica" ; Times: 6
+	Query: "Imantodes lentiferus" ; Times: 2
+	Query: "dombensis" ; Times: 1
+	Query: "tarentola ephippiata" ; Times: 1
+	Query: "Micrurus narduccii" ; Times: 1
+	Query: "atractus elaps" ; Times: 1
+	Query: "Pelusios" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 5
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "deinagkistrodon" ; Times: 1
+	Query: "SP 5639" ; Times: 1
+	Query: "Conraua robusta" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 3
+	Query: "trichobatrachus" ; Times: 2
+	Query: "Gymnophtalmus" ; Times: 1
+	Query: "micrurus bocourti" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 7
+	Query: "Elaphe davidi" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "Astrochelys yniphora" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Eirenis collaris" ; Times: 4
+	Query: "Deinagkistrodon acutus" ; Times: 3
+	Query: "nmw" ; Times: 1
+	Query: "micrurus dumerilii" ; Times: 3
+	Query: "Mauremys mutica" ; Times: 2
+	Query: "Micrurus altirostris" ; Times: 1
+	Query: "Osteocephalus leprieurii" ; Times: 2
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Gomesophis" ; Times: 2
+	Query: "Leptomicrurus collaris" ; Times: 1
+	Query: "xenopus gilli" ; Times: 1
+	Query: "Limnonectes doriae" ; Times: 2
+	Query: "Salamandra lanzai" ; Times: 1
+	Query: "Liotyphlops ternetzii" ; Times: 2
+	Query: "Atelopus elegans" ; Times: 3
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "Dyscophus antongilii" ; Times: 1
+	Query: "euproctus asper" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Vipera renardi" ; Times: 3
+	Query: "Aquiloeurycea cephalica" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 9
+	Query: "eunectes" ; Times: 1
+	Query: "liopeltis" ; Times: 4
+	Query: "micrurus circinalis" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "vipera ursinii" ; Times: 5
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "CAS Phyllodactylus galapagensis" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Nola" ; Times: 1
+	Query: "Leptolalax ventripunctatus" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "hydrodynastes gigas" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "micrurus distans" ; Times: 1
+	Query: "NMW" ; Times: 1
+	Query: "lampropeltis gentilis" ; Times: 1
+	Query: "Micrurus filiformis" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 4
+	Query: "Naja katiensis" ; Times: 4
+	Query: "Micrurus ornatissimus" ; Times: 2
+	Query: "Tarentola ephippiata" ; Times: 2
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "Pseudoeryx" ; Times: 1
+	Query: "zsm" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 1
+	Query: "Micrurus diutius" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 1
+	Query: "dibamus" ; Times: 1
+	Query: "micrurus psyches" ; Times: 7
+	Query: "Rana doriae" ; Times: 2
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "hydrodynastes" ; Times: 4
+	Query: "Micrurus obscurus" ; Times: 1
+	Query: "Micrurus pyrrhocryptus" ; Times: 1
+	Query: "bitis nasicornis" ; Times: 2
+	Query: "SU 4330" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Manouria impressa" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Opisthotropis typica" ; Times: 4
+	Query: "varanus komodoensis" ; Times: 3
+	Query: "Bufo fernandezae" ; Times: 1
+	Query: "county:&#34;Mexico&#34;" ; Times: 2
+	Query: "Typhlophis squamosus" ; Times: 3
+	Query: "Bufotes" ; Times: 2
+	Query: "Micrurus hemprichii" ; Times: 2
+	Query: "MNHN 1964.148" ; Times: 2
+	Query: "boa orophias" ; Times: 2
+	Query: "Paa AND Nepal" ; Times: 4
+	Query: "micrurus SPIXII" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "GYMNOPHTALMUS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1182 download events in this period)
+Total number of records downloaded: 2620
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 25
+	Country: Hong Kong ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 10
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-18 ; Times: 2
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-29 ; Times: 4
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-11 ; Times: 3
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-12 ; Times: 3
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "euproctus asper" ; Times: 1
+	Query: "&#34;notophthalmus meridionalis&#34;" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "Micrurus lemniscatus" ; Times: 2
+	Query: "Rhacophorus pardalis" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Calotriton asper" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Farancia" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "hippo" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "Cylindrophis" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "Gomesophis" ; Times: 1
+	Query: "thamnodynastes" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "micrurus distans" ; Times: 1
+	Query: "Pseudoeryx" ; Times: 1
+	Query: "Tomopterna" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "Paa AND Nepal" ; Times: 1
+	Query: "Deinagkistrodon acutus" ; Times: 2
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 2
+	Query: "Tretanorhinus" ; Times: 1
+	Query: "Xenopeltis" ; Times: 1
+
+
+End of report.
