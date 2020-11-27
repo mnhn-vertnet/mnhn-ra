@@ -1,0 +1,359 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 9745
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United Kingdom ; Times: 23
+	Country: Russia ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 9
+	Country: Portugal ; Times: 5
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 2
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 158
+	Country: China ; Times: 22
+	Country: Ireland ; Times: 2
+	Country: Puerto Rico ; Times: 3
+	Country: Germany ; Times: 12
+	Country: South Korea ; Times: 12
+	Country: Honduras ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 4
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-06 ; Times: 8
+	Date: 2020-01-05 ; Times: 3
+	Date: 2020-01-04 ; Times: 4
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-22 ; Times: 37
+	Date: 2020-01-25 ; Times: 8
+	Date: 2020-01-24 ; Times: 11
+	Date: 2020-01-27 ; Times: 44
+	Date: 2020-01-29 ; Times: 24
+	Date: 2020-01-28 ; Times: 69
+	Date: 2020-01-18 ; Times: 4
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-14 ; Times: 7
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-31 ; Times: 12
+	Date: 2020-01-10 ; Times: 9
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-13 ; Times: 5
+	Date: 2020-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lygodactylus arnoulti" ; Times: 3
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "Atractaspis corpulenta" ; Times: 2
+	Query: "Japalura yunnanensis" ; Times: 5
+	Query: "MNHN 1928-658" ; Times: 1
+	Query: "Holaspis laevis" ; Times: 1
+	Query: "Bolitoglossa lignicolor" ; Times: 1
+	Query: "Scincella doriae" ; Times: 1
+	Query: "Pristurus adrarensis" ; Times: 6
+	Query: "Tarentola maioensis" ; Times: 6
+	Query: "anolis transversalis" ; Times: 1
+	Query: "Trioceros jacksonii" ; Times: 1
+	Query: "Alsophylax pipiens" ; Times: 2
+	Query: "Pelomedusa+galeata" ; Times: 3
+	Query: "Enyalioides heterolepis" ; Times: 1
+	Query: "Abronia aurita" ; Times: 2
+	Query: "Chironius multiventris" ; Times: 5
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "geophis sieboldi" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Cnemaspis occidentalis" ; Times: 1
+	Query: "micrurus browni" ; Times: 2
+	Query: "pyburni" ; Times: 1
+	Query: "Sceloporus cupreus" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Cnemaspis koehleri" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "phymaturus" ; Times: 3
+	Query: "Psammobates tentorius" ; Times: 6
+	Query: "acrochordus granulatus" ; Times: 2
+	Query: "Acanthodactylus bedriagai" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "Lygodactylus montanus" ; Times: 5
+	Query: "Quedenfeldtia moerens" ; Times: 5
+	Query: "Tarentola gigas" ; Times: 6
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "Cnemaspis africana" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;Laos&#34;" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;Congo&#34;" ; Times: 1
+	Query: "Mediodactylus kotschyi" ; Times: 1
+	Query: "Mabuya desiradae" ; Times: 1
+	Query: "Tarentola substituta" ; Times: 6
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "Asymblepharus sikimmensis" ; Times: 2
+	Query: "Geagras" ; Times: 1
+	Query: "Lialis burtoni" ; Times: 1
+	Query: "MNHN 1982-653" ; Times: 1
+	Query: "Lygodactylus tuberosus" ; Times: 4
+	Query: "Lygodactylus gutturalis" ; Times: 1
+	Query: "Tropidophorus berdmorei" ; Times: 1
+	Query: "temporaria Rana" ; Times: 8
+	Query: "Asymblepharus" ; Times: 1
+	Query: "Nucras holubi" ; Times: 1
+	Query: "Tarentola darwini" ; Times: 6
+	Query: "Tarentola fogoensis" ; Times: 6
+	Query: "gloydius intermedius" ; Times: 7
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+	Query: "Alytes cisternasii" ; Times: 4
+	Query: "Tarentola bocagei" ; Times: 6
+	Query: "phrynosoma orbiculare" ; Times: 4
+	Query: "Amnirana albolabris mappable:1" ; Times: 1
+	Query: "dipsas incerta" ; Times: 1
+	Query: "Vipera aspis hugyi" ; Times: 3
+	Query: "mouhoti" ; Times: 2
+	Query: "Thamnophis scaliger" ; Times: 1
+	Query: "Tarentola protogigas" ; Times: 6
+	Query: "Eremias vermiculata" ; Times: 2
+	Query: "pretiosa Rana" ; Times: 1
+	Query: "typhlops braminus" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;Vietnam&#34;" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 3
+	Query: "Scincella reevesii" ; Times: 1
+	Query: "ranodon sibiricus" ; Times: 4
+	Query: "cyrtodactylus papuensis" ; Times: 1
+	Query: "Lygodactylus conradti" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "andrewsi Bufo" ; Times: 1
+	Query: "Ablepharus deserti" ; Times: 1
+	Query: "testudo horsfieldii" ; Times: 2
+	Query: "duttaphrynus himalayanus" ; Times: 8
+	Query: "35114" ; Times: 2
+	Query: "oligodon catenatus" ; Times: 1
+	Query: "Ailuronyx tachyscopaeus" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "cultripes Pelobates" ; Times: 1
+	Query: "Eleutherodactylus oxyrhyncus" ; Times: 3
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "Tarentola caboverdiana" ; Times: 6
+	Query: "calamita Bufo" ; Times: 1
+	Query: "ceratophora aspera" ; Times: 2
+	Query: "salamandrella" ; Times: 1
+	Query: "Tarentola raziana" ; Times: 6
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 1
+	Query: "lampropeltis multifasciata" ; Times: 1
+	Query: "Lygodactylus gravis" ; Times: 1
+	Query: "boeleni" ; Times: 2
+	Query: "Leptodactylus macrosternum" ; Times: 1
+	Query: "Tarentola pastoria" ; Times: 6
+	Query: "montandoni Lissotriton" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 2
+	Query: "Blaesodactylus victori" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "Podarcis carbonelli" ; Times: 1
+	Query: "Dibamus bourreti" ; Times: 2
+	Query: "Phrynocephalus theobaldi" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "Acanthodactylus dumerilii" ; Times: 1
+	Query: "(NMW )" ; Times: 2
+	Query: "Cnemaspis alantika" ; Times: 1
+	Query: "MNHN-1928-658" ; Times: 1
+	Query: "Tarentola gomerensis" ; Times: 6
+	Query: "Herpetodryas" ; Times: 1
+	Query: "elaphe dione" ; Times: 5
+	Query: "Ailuronyx trachygaster" ; Times: 1
+	Query: "typhlops braminus country:&#34;Congo&#34;" ; Times: 1
+	Query: "Ptyodactylus hasselquisti" ; Times: 1
+	Query: "parker kenya" ; Times: 1
+	Query: "Scaphiophis" ; Times: 1
+	Query: "Hemidactylus parvimaculatus" ; Times: 1
+	Query: "Proceratophrys cristiceps" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 1
+	Query: "Tropidophorus hainanus" ; Times: 1
+	Query: "Lygodactylus tolampyae" ; Times: 2
+	Query: "Telmatobius peruvianus" ; Times: 2
+	Query: "locality:Versant occidental " ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 3
+	Query: "Lacerta bilineata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 159 (out of 1584 download events in this period)
+Total number of records downloaded: 11516
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 95
+	Country: Germany ; Times: 2
+	Country: China ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 17
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 8
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-28 ; Times: 25
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-25 ; Times: 30
+	Date: 2020-01-24 ; Times: 43
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 19
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eremias velox" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "Aristelliger georgeensis" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "Acanthodactylus bedriagai" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Scincella doriae" ; Times: 1
+	Query: "Takydromus sexlineatus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "Japalura polygonata" ; Times: 1
+	Query: "Trioceros jacksonii" ; Times: 1
+	Query: "Alsophylax pipiens" ; Times: 2
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Enyalioides heterolepis" ; Times: 1
+	Query: "Abronia aurita" ; Times: 3
+	Query: "Gekko hokouensis" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+	Query: "Phyllodactylus unctus" ; Times: 2
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "Sphenomorphus indicus" ; Times: 1
+	Query: "Eutropis multifasciata" ; Times: 2
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Psammobates tentorius" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Phyllodactylus xanti" ; Times: 1
+	Query: "Holaspis laevis" ; Times: 1
+	Query: "Eremias przewalskii" ; Times: 1
+	Query: "Cyrtodactylus annulatus" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "Cnemaspis africana" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "Emoia cyanura" ; Times: 2
+	Query: "Gekko japonicus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Mediodactylus kotschyi" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Leiocephalus schreibersii" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Hemiphyllodactylus typus" ; Times: 2
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Phrynocephalus axillaris" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Lepidoblepharis xanthostigma" ; Times: 1
+	Query: "Podarcis vaucheri" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Tropidophorus berdmorei" ; Times: 1
+	Query: "Teratoscincus scincus" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 1
+	Query: "Eremias arguta" ; Times: 1
+	Query: "Nucras holubi" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Lipinia noctua" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Takydromus septentrionalis" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Sphenomorphus maculatus" ; Times: 1
+	Query: "gekko smithii" ; Times: 1
+	Query: "Eremias argus" ; Times: 1
+	Query: "Ameiva praesignis" ; Times: 1
+	Query: "Sceloporus squamosus" ; Times: 1
+	Query: "Trachylepis quinquetaeniata" ; Times: 1
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "Scincella reevesii" ; Times: 1
+	Query: "Sphaerodactylus lineolatus" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "Lygodactylus conradti" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Ablepharus deserti" ; Times: 1
+	Query: "Lepidodactylus aureolineatus" ; Times: 1
+	Query: "duttaphrynus himalayanus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Geagras" ; Times: 1
+	Query: "Cryptoblepharus poecilopleurus" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "Lygodactylus gravis" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "Eremias multiocellata" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "Agama lionotus" ; Times: 1
+	Query: "Sphenomorphus cranei" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Hemidactylus brookii" ; Times: 4
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "Hemidactylus bowringii" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Podarcis carbonelli" ; Times: 2
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "Dibamus bourreti" ; Times: 1
+	Query: "Sphaerodactylus elegans" ; Times: 1
+	Query: "Lygosoma bowringii" ; Times: 1
+	Query: "Acanthodactylus dumerilii" ; Times: 1
+	Query: "Calotes emma" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Phelsuma grandis" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "Hemidactylus parvimaculatus" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Sceloporus cupreus" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "Sphaerodactylus argus" ; Times: 1
+	Query: "Tropidophorus hainanus" ; Times: 1
+	Query: "Furcifer oustaleti" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "Emoia atrocostata" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "Podarcis erhardii" ; Times: 1
+	Query: "Lepidophyma smithii" ; Times: 1
+	Query: "Lacerta bilineata" ; Times: 1
+
+
+End of report.
