@@ -1,0 +1,418 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 290
+Number of records retrieved in searches: 2914
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 36
+	Country: Australia ; Times: 77
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 53
+	Country: Portugal ; Times: 3
+	Country: Singapore ; Times: 7
+	Country: India ; Times: 13
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Vietnam ; Times: 7
+	Country: Germany ; Times: 27
+	Country: Spain ; Times: 3
+	Country: Ireland ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 5
+	Date: 2020-05-24 ; Times: 7
+	Date: 2020-05-27 ; Times: 24
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-23 ; Times: 12
+	Date: 2020-05-22 ; Times: 26
+	Date: 2020-05-29 ; Times: 21
+	Date: 2020-05-28 ; Times: 5
+	Date: 2020-05-18 ; Times: 7
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-10 ; Times: 17
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 6
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 6
+	Date: 2020-05-17 ; Times: 7
+	Date: 2020-05-30 ; Times: 3
+	Date: 2020-05-31 ; Times: 17
+	Date: 2020-05-09 ; Times: 7
+	Date: 2020-05-08 ; Times: 12
+	Date: 2020-05-07 ; Times: 32
+	Date: 2020-05-06 ; Times: 36
+	Date: 2020-05-05 ; Times: 5
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 7
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "MNHN 1956.23" ; Times: 1
+	Query: "Rhinotyphlops praeocularis" ; Times: 3
+	Query: "imantodes gemmistratus Panama" ; Times: 1
+	Query: "werne" ; Times: 1
+	Query: "Hemirhagerrhis nototaenia" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 2
+	Query: "anolis leptoscelis" ; Times: 2
+	Query: "MNHN 1978.2134" ; Times: 1
+	Query: "MNHN 1978.2135" ; Times: 1
+	Query: "MNHN 1978.2136" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 10
+	Query: "MNHN 1978.2131" ; Times: 3
+	Query: "Limnophis bicolor" ; Times: 1
+	Query: "MNHN 1978.2133" ; Times: 2
+	Query: "callopistes flavipunctatus" ; Times: 22
+	Query: "pseudobufo" ; Times: 1
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "argent" ; Times: 1
+	Query: "Atractaspis corpulenta" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 6
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Telmatobius rimac" ; Times: 3
+	Query: "Bothrophthalmus lineatus" ; Times: 1
+	Query: "Typhlops bipartitus" ; Times: 1
+	Query: "Lycophidion multimaculatum" ; Times: 1
+	Query: "vipera latastei" ; Times: 2
+	Query: "Hydraethiops melanogaster" ; Times: 1
+	Query: "gaine" ; Times: 1
+	Query: "Bolyeria" ; Times: 1
+	Query: "Polemon gabonensis" ; Times: 1
+	Query: "Oligodon joynsoni" ; Times: 1
+	Query: "Route de kaw" ; Times: 1
+	Query: "Scelotes inornatus" ; Times: 1
+	Query: "Ramphotyphlops multilineatus" ; Times: 1
+	Query: "Amphiesma atemporalis" ; Times: 2
+	Query: "chondropython viridis" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "MNHN 1978.2432" ; Times: 1
+	Query: "liolaemus CAPILLITAS" ; Times: 3
+	Query: "hemidactylus luzonensis" ; Times: 2
+	Query: "Bufo parkeri" ; Times: 4
+	Query: "caecilia pachynema" ; Times: 1
+	Query: "Thrasops jacksonii" ; Times: 1
+	Query: "Mediodactylus kotschyi" ; Times: 1
+	Query: "MNHN 599" ; Times: 1
+	Query: "Calamaria pavimentata" ; Times: 2
+	Query: "Scutiger mammatus" ; Times: 1
+	Query: "Elaphe davidi" ; Times: 1
+	Query: "Oligodon vertebralis" ; Times: 1
+	Query: "Dendrelaphis lineolatus" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "Oxyrhopus fitzingeri" ; Times: 2
+	Query: "Laemanctus serratus" ; Times: 4
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Gymnophthalmus lineatus" ; Times: 1
+	Query: "cornufer elegans" ; Times: 3
+	Query: "Amolops archotaphus" ; Times: 1
+	Query: "Lycophidion nigromaculatum" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 2
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "ailuronyx trachygaster" ; Times: 1
+	Query: "MNHN 1978.2130" ; Times: 2
+	Query: "Cynops orphicus" ; Times: 1
+	Query: "naja kaouthia" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Pseudoxenodon karlschmidti" ; Times: 1
+	Query: "MNHN 1978.2069" ; Times: 1
+	Query: "clot bey" ; Times: 2
+	Query: "MNHN 1978.2132" ; Times: 3
+	Query: "MNHN 1978.2062" ; Times: 1
+	Query: "MNHN 1978.2063" ; Times: 1
+	Query: "Leptophryne borbonica" ; Times: 1
+	Query: "MNHN 1978.2061" ; Times: 1
+	Query: "MNHN 1978.2066" ; Times: 1
+	Query: "MNHN 1978.2067" ; Times: 1
+	Query: "MNHN 1978.2064" ; Times: 1
+	Query: "MNHN 1978.2065" ; Times: 1
+	Query: "Atelopus elegans" ; Times: 2
+	Query: "Acontias occidentalis" ; Times: 1
+	Query: "Simalia amethistina" ; Times: 1
+	Query: "Oligodon chinensis" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 3
+	Query: "polychrus gutturosus" ; Times: 8
+	Query: "Elaphe bimaculata" ; Times: 3
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Sphenodon" ; Times: 9
+	Query: "Crotaphopeltis hippocrepis" ; Times: 1
+	Query: "Pseudoxenodon bambusicola" ; Times: 3
+	Query: "Duttaphrynus himalayanus" ; Times: 9
+	Query: "Leptotyphlops merkeri" ; Times: 1
+	Query: "pachynema" ; Times: 1
+	Query: "Opisthotropis jacobi" ; Times: 1
+	Query: "Oligodon saintgironsi" ; Times: 1
+	Query: "mabuya carinata" ; Times: 3
+	Query: "Crocodylus intermedius" ; Times: 2
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Xenocalamus michelli" ; Times: 1
+	Query: "MNHN 1978.2071" ; Times: 1
+	Query: "MNHN 1978.2070" ; Times: 1
+	Query: "MNHN 1978.2073" ; Times: 1
+	Query: "MNHN 1978.2072" ; Times: 1
+	Query: "atelopus hoogmoedi" ; Times: 2
+	Query: "MNHN 1978.2074" ; Times: 1
+	Query: "MNHN 1993.3491" ; Times: 1
+	Query: "MNHN 1993.3473" ; Times: 1
+	Query: "Oligodon moricei" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "sistrurus indiana" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "Gonionotophis klingi" ; Times: 2
+	Query: "MNHN 1978.2068" ; Times: 1
+	Query: "Acontias plumbeus" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+	Query: "helicops polylepis" ; Times: 1
+	Query: "Rhabdophis angeli" ; Times: 1
+	Query: "leptophis ahaetulla bocourti" ; Times: 1
+	Query: "Rhabdophis callichroma" ; Times: 1
+	Query: "Gonionotophis grantii" ; Times: 1
+	Query: "Hypsiglena affinis" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Meizodon regularis" ; Times: 1
+	Query: "Amphiesma optatum" ; Times: 1
+	Query: "phyllodactyla" ; Times: 2
+	Query: "abronia" ; Times: 1
+	Query: "elaphe frenata" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "MNHN 1978.2060" ; Times: 1
+	Query: "Cynops orientalis" ; Times: 1
+	Query: "Alopoglossus festae" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "MNHN 1978.2344" ; Times: 1
+	Query: "MNHN 1978.2343" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "Feylinia boulengeri" ; Times: 1
+	Query: "ptychoglossus brevifrontalis" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "Lissotriton montandoni" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Amphiesma johannis" ; Times: 2
+	Query: "Liolaemus capillitas" ; Times: 2
+	Query: "MNHN 1994.743" ; Times: 2
+	Query: "acanthosaura armata" ; Times: 2
+	Query: "Cynops wolterstorffi" ; Times: 1
+	Query: "Rhinotyphlops debilis" ; Times: 1
+	Query: "Vipera lebetina obtusa" ; Times: 1
+	Query: "MNHN 1932.20" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "MNHN-1870-229" ; Times: 1
+	Query: "Elaphe frenata" ; Times: 2
+	Query: "Myriopholis narirostris" ; Times: 1
+	Query: "Anolis rubiginosus" ; Times: 1
+	Query: "Scutiger sikimmensis" ; Times: 1
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Trachischium" ; Times: 1
+	Query: "Plagiopholis delacouri" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "Psammophis lineatus" ; Times: 1
+	Query: "sceloporus cupreus" ; Times: 1
+	Query: "oxyrhopus melanogenys" ; Times: 15
+	Query: "Elaphe carinata" ; Times: 2
+	Query: "Chamaelycus parkeri" ; Times: 1
+	Query: "Eryx muelleri" ; Times: 3
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "Letheobia rufescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 146 (out of 1106 download events in this period)
+Total number of records downloaded: 7229
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Australia ; Times: 49
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 14
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 6
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 4
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 14
+	Date: 2020-05-22 ; Times: 10
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 8
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 5
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 11
+	Date: 2020-05-09 ; Times: 9
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-05 ; Times: 16
+	Date: 2020-05-03 ; Times: 8
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Emoia sanfordi" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "Atractaspis corpulenta" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Hemirhagerrhis nototaenia" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "sceloporus melanorhinus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Lycophidion multimaculatum" ; Times: 1
+	Query: "vipera latastei" ; Times: 1
+	Query: "Anolis rodriguezii" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Polemon gabonensis" ; Times: 1
+	Query: "Oligodon joynsoni" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Duttaphrynus himalayanus" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 1
+	Query: "Pseudoxenodon bambusicola" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "Thrasops jacksonii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Calamaria pavimentata" ; Times: 2
+	Query: "contia" ; Times: 1
+	Query: "Emoia nigra" ; Times: 1
+	Query: "Oligodon vertebralis" ; Times: 1
+	Query: "Dendrelaphis lineolatus" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Gymnophthalmus lineatus" ; Times: 1
+	Query: "Lycophidion nigromaculatum" ; Times: 1
+	Query: "Natriciteres olivacea" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Cynops orphicus" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Causus defilippii" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "clot bey" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Paramesotriton" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Elaphe bimaculata" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Crotaphopeltis hippocrepis" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "Leptotyphlops merkeri" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Opisthotropis jacobi" ; Times: 1
+	Query: "Anolis nebuloides" ; Times: 1
+	Query: "Xenocalamus michelli" ; Times: 1
+	Query: "Pachytriton" ; Times: 1
+	Query: "Oligodon chinensis" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Anolis laeviventris" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Gonionotophis grantii" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Hypsiglena affinis" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 1
+	Query: "Meizodon regularis" ; Times: 1
+	Query: "Amphiesma optatum" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "Cynops ensicauda" ; Times: 1
+	Query: "Mabuya rudis" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Cynops orientalis" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "Gonionotophis klingi" ; Times: 1
+	Query: "Lissotriton montandoni" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Bothrophthalmus lineatus" ; Times: 1
+	Query: "Hydraethiops melanogaster" ; Times: 1
+	Query: "Cynops wolterstorffi" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Bufo parkeri" ; Times: 1
+	Query: "Anolis rubiginosus" ; Times: 1
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "sceloporus cupreus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Elaphe carinata" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Lissotriton" ; Times: 1
+
+
+End of report.
