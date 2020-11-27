@@ -1,0 +1,251 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 1209
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 54
+	Country: Australia ; Times: 8
+	Country: Italy ; Times: 5
+	Country: South Africa ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 21
+	Country: Slovakia ; Times: 3
+	Country: Puerto Rico ; Times: 6
+	Country: Belgium ; Times: 18
+	Country: Germany ; Times: 12
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 26
+	Date: 2019-12-27 ; Times: 7
+	Date: 2019-12-26 ; Times: 5
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-23 ; Times: 8
+	Date: 2019-12-22 ; Times: 11
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 15
+	Date: 2019-12-11 ; Times: 8
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-13 ; Times: 14
+	Date: 2019-12-16 ; Times: 6
+	Date: 2019-12-17 ; Times: 3
+	Date: 2019-12-30 ; Times: 15
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-08 ; Times: 11
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-03 ; Times: 12
+	Date: 2019-12-02 ; Times: 11
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scutiger nepalensis" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+	Query: "Hyalinobatrachium iaspidiense" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "hyla pinorum" ; Times: 2
+	Query: "vipera kaznakovi" ; Times: 10
+	Query: "hyla riveroi" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 3
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 4
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Diploglossus fasciatus" ; Times: 1
+	Query: "chelonoidis carbonaria" ; Times: 1
+	Query: "Wolterstorffina parvipalmata" ; Times: 11
+	Query: "alytes maurus" ; Times: 1
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "crocodylus Borneo" ; Times: 3
+	Query: "Tepuihyla edelcae" ; Times: 1
+	Query: "Acanthodactylus tristrami" ; Times: 1
+	Query: "MNHN Atractaspis irregularis" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "Leptopelis calcaratus mappable:1" ; Times: 2
+	Query: "Chalcides lanzai" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 2
+	Query: "hemiphractus johnsoni" ; Times: 1
+	Query: "chamaeleo namaquensis" ; Times: 1
+	Query: "vipera eriwanensis" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "Diploglossus striatus" ; Times: 1
+	Query: "reptiles zacatecas" ; Times: 2
+	Query: "vipera renardi" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 2
+	Query: "tantilla bocourti mexico" ; Times: 1
+	Query: "Anodonthyla rouxae" ; Times: 1
+	Query: "Theloderma gordoni" ; Times: 2
+	Query: "Blanus mettetali" ; Times: 1
+	Query: "amethistina" ; Times: 5
+	Query: "Polemon bocourti" ; Times: 2
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "Amolops archotaphus" ; Times: 2
+	Query: "Tachymenis affinis" ; Times: 2
+	Query: "Pelamis platurus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "MNHN Atractaspis bibroni" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 18
+	Query: "Limnonectes doriae" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 1
+	Query: "dendroaspis institutioncode:MNHN" ; Times: 1
+	Query: "Amnirana albolabris mappable:1" ; Times: 1
+	Query: "Limnomedusa" ; Times: 1
+	Query: "Rana dybowskii" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "oligodon laos" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "pseudophilautus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "harpesaurus" ; Times: 1
+	Query: "bufo verrucosissimus" ; Times: 1
+	Query: "alexteroon" ; Times: 1
+	Query: "Eleutherodactylus oxyrhyncus" ; Times: 6
+	Query: "Lampropeltis multifasciata" ; Times: 1
+	Query: "Amnirana lepus mappable:1" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "NMW" ; Times: 1
+	Query: "chamaeleo gracilis" ; Times: 1
+	Query: "Eleutherodactylus gutturalis" ; Times: 1
+	Query: "Echinanthera undulata" ; Times: 1
+	Query: "stefania ginesi" ; Times: 4
+	Query: "Amolops ricketti" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Bufo pageoti" ; Times: 1
+	Query: "megophrys feae" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 1
+	Query: "Elapsoidea sundevalli" ; Times: 2
+	Query: "Amphiesma craspedogaster" ; Times: 1
+	Query: "spinipes" ; Times: 1
+	Query: "Cardioglossa nigromaculata" ; Times: 4
+	Query: "kaznakovi" ; Times: 1
+	Query: "Eunectes deschauenseei" ; Times: 2
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "Tantilla+rubra" ; Times: 1
+	Query: "2013-1064 mnhn" ; Times: 1
+	Query: "Scinax nebulosus" ; Times: 1
+	Query: "chamaeleo cristatus" ; Times: 4
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Nannophrys ceylonensis" ; Times: 1
+	Query: "county:&#34;India&#34; institutioncode:MNHN" ; Times: 1
+	Query: "bufo brongersmai" ; Times: 1
+	Query: "Notophthalmus meridionalis texas" ; Times: 2
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+	Query: "Dendroaspis polylepis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 596 download events in this period)
+Total number of records downloaded: 1787
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 10
+	Country: Sweden ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Belgium ; Times: 34
+	Country: Honduras ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 33
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-26 ; Times: 7
+	Date: 2019-12-30 ; Times: 3
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "ansonia leptopus" ; Times: 1
+	Query: "Oedipina pseudouniformis" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "reptiles zacatecas" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "&#34;Crotalus cerastes cerastes&#34;" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "spinipes" ; Times: 3
+	Query: "Amolops" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Diploglossus fasciatus" ; Times: 1
+	Query: "atelopus mindoensis" ; Times: 1
+	Query: "Blanus mettetali" ; Times: 1
+	Query: "Amolops ricketti" ; Times: 3
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "Amolops archotaphus" ; Times: 3
+	Query: "Amolops cremnobatus" ; Times: 3
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "nyctixalus pictus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "ansonia" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Echinanthera undulata" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Diploglossus striatus" ; Times: 1
+	Query: "furcifer oustaleti" ; Times: 2
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+
+
+End of report.
