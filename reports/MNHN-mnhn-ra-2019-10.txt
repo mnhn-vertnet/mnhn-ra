@@ -1,0 +1,533 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 401
+Number of records retrieved in searches: 3939
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Italy ; Times: 7
+	Country: Unknown ; Times: 30
+	Country: Nepal ; Times: 3
+	Country: Argentina ; Times: 50
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: China ; Times: 21
+	Country: Germany ; Times: 2
+	Country: Philippines ; Times: 55
+	Country: Indonesia ; Times: 4
+	Country: United States ; Times: 139
+	Country: Morocco ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: South Africa ; Times: 8
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Mozambique ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 2
+	Country: Hungary ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-08 ; Times: 6
+	Date: 2019-10-21 ; Times: 20
+	Date: 2019-10-20 ; Times: 39
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-25 ; Times: 8
+	Date: 2019-10-22 ; Times: 32
+	Date: 2019-10-01 ; Times: 11
+	Date: 2019-10-03 ; Times: 7
+	Date: 2019-10-02 ; Times: 13
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-06 ; Times: 7
+	Date: 2019-10-23 ; Times: 12
+	Date: 2019-10-24 ; Times: 15
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 8
+	Date: 2019-10-19 ; Times: 43
+	Date: 2019-10-12 ; Times: 7
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-11 ; Times: 29
+	Date: 2019-10-16 ; Times: 12
+	Date: 2019-10-31 ; Times: 16
+	Date: 2019-10-14 ; Times: 4
+	Date: 2019-10-17 ; Times: 24
+	Date: 2019-10-15 ; Times: 10
+	Date: 2019-10-28 ; Times: 14
+	Date: 2019-10-30 ; Times: 34
+
+List of queries that retrieved data from the resource: 
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "MNHN RA 0.1657" ; Times: 1
+	Query: "Oligodon arnensis" ; Times: 1
+	Query: "Calyptocephalella gayi" ; Times: 1
+	Query: "Scaphiophryne gottlebei" ; Times: 1
+	Query: "Boiga ceylonensis" ; Times: 1
+	Query: "Alexteroon hypsiphonus" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "Sylvirana guentheri" ; Times: 2
+	Query: "Crocodylus acutus 1992" ; Times: 1
+	Query: "Hyalinobatrachium iaspidiense" ; Times: 1
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "Leptodactylodon perreti" ; Times: 1
+	Query: "Dendrelaphis tristis" ; Times: 1
+	Query: "Werneria preussi" ; Times: 1
+	Query: "CAI 218" ; Times: 1
+	Query: "Phrynobatrachus maculiventris" ; Times: 1
+	Query: "chamaeleolis" ; Times: 1
+	Query: "jacobi" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "Ambystoma californiense 2016" ; Times: 3
+	Query: "amphisbaena fuliginosa varia" ; Times: 1
+	Query: "Ambystoma californiense 2015" ; Times: 3
+	Query: "Hyperolius koehleri" ; Times: 1
+	Query: "Wolterstorffina parvipalmata" ; Times: 1
+	Query: "heloderma sinaloa" ; Times: 2
+	Query: "uracentron flaviceps" ; Times: 4
+	Query: "sonora episcopa" ; Times: 1
+	Query: "Drymoluber dichrous" ; Times: 2
+	Query: "Daboia Mauritanica" ; Times: 3
+	Query: "dinodon myanmar" ; Times: 1
+	Query: "hyla colima" ; Times: 1
+	Query: "Quasipaa jiulongensis" ; Times: 1
+	Query: "Mantidactylus bellyi" ; Times: 1
+	Query: "Leptodactylodon axillaris" ; Times: 1
+	Query: "Ptychadena longirostris" ; Times: 1
+	Query: "Mastigodryas boddaerti" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Hyperolius chlorosteus" ; Times: 1
+	Query: "salvadora colima" ; Times: 1
+	Query: "pseudocordylus" ; Times: 3
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Crocodylus acutus 2004" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Crocodylus acutus 2002" ; Times: 1
+	Query: "pseudotriton ruber skyline drive virginia" ; Times: 1
+	Query: "Ambystoma californiense 2003" ; Times: 3
+	Query: "Astylosternus ranoides" ; Times: 1
+	Query: "Bombina pachypus" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Leptodactylodon ornatus" ; Times: 1
+	Query: "Crocodylus acutus 2008" ; Times: 1
+	Query: "Leptopelis zebra" ; Times: 1
+	Query: "Afrixalus vibekensis" ; Times: 1
+	Query: "Hyperolius camerunensis" ; Times: 1
+	Query: "rana crassa" ; Times: 1
+	Query: "phyllodactylus colima" ; Times: 1
+	Query: "Petropedetes parkeri" ; Times: 1
+	Query: "Conraua robusta" ; Times: 1
+	Query: "Telmatobius latirostris" ; Times: 2
+	Query: "Phrynobatrachus guineensis" ; Times: 1
+	Query: "Sistrurus catenatus 2004" ; Times: 1
+	Query: "Hynobius dunni" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "Salamandrina" ; Times: 3
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Elaphe davidi" ; Times: 5
+	Query: "Pseudoeurycea gigantea" ; Times: 7
+	Query: "Werneria tandyi" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "anolis alutaceus" ; Times: 3
+	Query: "Chironius scurrulus" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:&#34;Virginia&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "Astylosternus nganhanus" ; Times: 2
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "Geotrypetes angeli" ; Times: 3
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Crocodylus acutus 2014" ; Times: 1
+	Query: "Salvadora bairdi" ; Times: 2
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "Phrynobatrachus phyllophilus" ; Times: 1
+	Query: "Crocodylus acutus 2013" ; Times: 1
+	Query: "trioceros wiedersheimi" ; Times: 3
+	Query: "Crocodylus acutus 2019" ; Times: 1
+	Query: "Phrynobatrachus cricogaster" ; Times: 1
+	Query: "Hyperolius wermuthi" ; Times: 1
+	Query: "Crocodylus acutus 2003" ; Times: 1
+	Query: "Astylosternus schioetzi" ; Times: 1
+	Query: "county:&#34;Rio de Janeiro&#34;" ; Times: 1
+	Query: "Neoseps reynoldsi 2016" ; Times: 1
+	Query: "Neoseps reynoldsi 2015" ; Times: 1
+	Query: "Pseudocordylus" ; Times: 1
+	Query: "Crocodylus acutus 1978" ; Times: 1
+	Query: "Trachischium fuscum" ; Times: 2
+	Query: "Leptodactylodon bicolor" ; Times: 1
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "Leptodactylodon wildi" ; Times: 1
+	Query: "Sistrurus catenatus 2014" ; Times: 1
+	Query: "Sistrurus catenatus 2012" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 1
+	Query: "Pleurodema bibroni" ; Times: 1
+	Query: "Cordylus vittifer" ; Times: 4
+	Query: "Ptychadena submascareniensis" ; Times: 1
+	Query: "Paranaja multifasciata" ; Times: 9
+	Query: "Mus AND Clemente Island NOT Fish" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Leptodactylodon ovatus" ; Times: 3
+	Query: "Chiasmocleis bicegoi" ; Times: 1
+	Query: "Vipera monticola" ; Times: 8
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "Hyperolius acutirostris" ; Times: 1
+	Query: "Amnirana occidentalis" ; Times: 2
+	Query: "bufo beddomii" ; Times: 1
+	Query: "lacertoides" ; Times: 1
+	Query: "Cardioglossa trifasciata" ; Times: 1
+	Query: "Phrynobatrachus werneri" ; Times: 1
+	Query: "arborea Hyla" ; Times: 4
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 4
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "Alexteroon jynx" ; Times: 1
+	Query: "Phrynobatrachus ogoensis" ; Times: 1
+	Query: "Agama parafricana" ; Times: 1
+	Query: "Arthroleptis spinalis" ; Times: 1
+	Query: "Crocodylus acutus 1986" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 2
+	Query: "Ambystoma californiense 1987" ; Times: 3
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "CAI 2" ; Times: 1
+	Query: "Mus AND CLemente Island" ; Times: 1
+	Query: "Calamaria schlegeli Sumatra" ; Times: 4
+	Query: "lachesis muta" ; Times: 2
+	Query: "Eupsophus roseus" ; Times: 2
+	Query: "limnophis" ; Times: 1
+	Query: "Cardioglossa oreas" ; Times: 1
+	Query: "Arthroleptis langeri" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Kassina cochranae" ; Times: 1
+	Query: "Phrynobatrachus hieroglyphicus" ; Times: 1
+	Query: "Phrynobatrachus manengoubensis" ; Times: 1
+	Query: "Hyperolius chrysogaster" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 3
+	Query: "Chalcorana chalconota" ; Times: 1
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "Cardioglossa melanogaster" ; Times: 1
+	Query: "Pseudoeurycea gigantea " ; Times: 3
+	Query: "Leptodactylodon polyacanthus" ; Times: 1
+	Query: "Crocodylus acutus 2000" ; Times: 1
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Philodryas patagoniensis" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Wolterstorffina mirei" ; Times: 1
+	Query: "Rana japonica" ; Times: 1
+	Query: "alpestris Ichthyosaura" ; Times: 2
+	Query: "CAI 217" ; Times: 1
+	Query: "trachischium fuscum" ; Times: 1
+	Query: "werneria tandyi" ; Times: 1
+	Query: "CAI 213" ; Times: 1
+	Query: "Dendrelaphis Albay" ; Times: 1
+	Query: "Leptodactylodon blanci" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 1
+	Query: "chamaeleo camerunensis" ; Times: 3
+	Query: "Mixophyes schevilli" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "Afrixalus nigeriensis" ; Times: 1
+	Query: "Astylosternus rheophilus" ; Times: 1
+	Query: "CAI 219" ; Times: 1
+	Query: "Leptolalax ventripunctatus" ; Times: 2
+	Query: "Hyperolius zonatus" ; Times: 1
+	Query: "heyeri" ; Times: 1
+	Query: "Petropedetes perreti" ; Times: 1
+	Query: "Conraua derooi" ; Times: 1
+	Query: "Zachaenus parvulus" ; Times: 1
+	Query: "Ahaetulla Albay" ; Times: 4
+	Query: "Chironius multiventris" ; Times: 1
+	Query: "Astylosternus fallax" ; Times: 1
+	Query: "Cerastes gasperettii" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "Cardioglossa venusta" ; Times: 1
+	Query: "Arthroleptis crusculum" ; Times: 1
+	Query: "Boiga Albay Philippines" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 2
+	Query: "Ambystoma californiense 1978" ; Times: 3
+	Query: "Kassina decorata" ; Times: 1
+	Query: "Ptychadena superciliaris" ; Times: 1
+	Query: "Naja katiensis" ; Times: 3
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Hyperolius viridigulosus" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Phrynobatrachus fraterculus" ; Times: 1
+	Query: "Ambystoma californiense 1988" ; Times: 3
+	Query: "Hyperolius mitchelli" ; Times: 2
+	Query: "Tylototriton asperrimus" ; Times: 2
+	Query: "Pseudoficimia frontalis" ; Times: 2
+	Query: "Leptodactylodon erythrogaster" ; Times: 1
+	Query: "Chironius monticola" ; Times: 1
+	Query: "Ptychadena pujoli" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Hyperolius bolifambae" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 2
+	Query: "Scolecophis atrocinctus" ; Times: 1
+	Query: "Phrynobatrachus liberiensis" ; Times: 1
+	Query: "Papurana florensis" ; Times: 2
+	Query: "Astylosternus perreti" ; Times: 1
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Ichthyosaura alpestris" ; Times: 1
+	Query: "Hyperolius bobirensis" ; Times: 2
+	Query: "Boiga Albay" ; Times: 3
+	Query: "Glandirana rugosa" ; Times: 1
+	Query: "Bufotes viridis" ; Times: 3
+	Query: "Werneria mertensiana" ; Times: 3
+	Query: "Siphonops hardyi" ; Times: 1
+	Query: "leptotyphlops colima" ; Times: 2
+	Query: "CAI 210" ; Times: 1
+	Query: "rana colima" ; Times: 3
+	Query: "Hyperolius igbettensis" ; Times: 1
+	Query: "Nimbaphrynoides occidentalis" ; Times: 2
+	Query: "Astylosternus laurenti" ; Times: 1
+	Query: "Kassina lamottei" ; Times: 1
+	Query: "Werneria bambutensis" ; Times: 1
+	Query: "Arthroleptis nimbaensis" ; Times: 1
+	Query: "Cardioglossa nigromaculata" ; Times: 1
+	Query: "Hyperolius nimbae" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 2
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "ursinii" ; Times: 2
+	Query: "Phrynobatrachus villiersi" ; Times: 1
+	Query: "Lacerta bilineata" ; Times: 1
+	Query: "Conraua alleni" ; Times: 1
+	Query: "Phrynobatrachus annulatus" ; Times: 1
+	Query: "Cardioglossa occidentalis" ; Times: 1
+	Query: "Leptodactylodon boulengeri" ; Times: 1
+	Query: "Leptodactylodon bueanus" ; Times: 1
+	Query: "Tretanorhinus mocquardi" ; Times: 4
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "Sistrurus catenatus 1989" ; Times: 1
+	Query: "asymblepharus" ; Times: 1
+	Query: "rhacophorus microtympanum" ; Times: 1
+	Query: "Pseudoxenodon bambusicola" ; Times: 1
+	Query: "Coluber constrictor oaxaca" ; Times: 4
+	Query: "Boiga Philippines" ; Times: 1
+	Query: "Pseudis minuta" ; Times: 1
+	Query: "Phyllomedusa burmeisteri" ; Times: 1
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "elaphe flavirufa" ; Times: 1
+	Query: "vntype:specimen county:&#34;Mexico&#34;" ; Times: 1
+	Query: "Atheris anisolepis" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 4
+	Query: "rhinobothryum lentiginosum" ; Times: 3
+	Query: "Conraua goliath" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Wolterstorffina chirioi" ; Times: 1
+	Query: "Potomotyphlus" ; Times: 1
+	Query: "Eryx muelleri" ; Times: 3
+	Query: "Astylosternus montanus" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "phyllomedusa burmeisteri" ; Times: 1
+	Query: "Tretanorhinus variabilis" ; Times: 6
+	Query: "testudo graeca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 207 (out of 1308 download events in this period)
+Total number of records downloaded: 18789
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 43
+	Country: Philippines ; Times: 56
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: China ; Times: 56
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 32
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-03 ; Times: 18
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 16
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-19 ; Times: 50
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-20 ; Times: 59
+	Date: 2019-10-15 ; Times: 5
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "Phrynobatrachus steindachneri" ; Times: 2
+	Query: "Stenorrhina freminvillei" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Geotrypetes angeli" ; Times: 1
+	Query: "Conraua derooi" ; Times: 1
+	Query: "Hyperolius igbettensis" ; Times: 3
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "Hyperolius camerunensis" ; Times: 2
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "Leptodactylodon boulengeri" ; Times: 1
+	Query: "Leptodactylodon perreti" ; Times: 1
+	Query: "Ptychadena perreti" ; Times: 2
+	Query: "Werneria preussi" ; Times: 1
+	Query: "Phrynobatrachus maculiventris" ; Times: 2
+	Query: "Hyperolius zonatus" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "Phrynobatrachus fraterculus" ; Times: 2
+	Query: "sphaerodactylus elegans" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "Hyperolius koehleri" ; Times: 2
+	Query: "Wolterstorffina parvipalmata" ; Times: 1
+	Query: "Chelonoidis" ; Times: 1
+	Query: "Ptychadena pujoli" ; Times: 2
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "testudo graeca" ; Times: 1
+	Query: "Hyperolius nimbae" ; Times: 1
+	Query: "Leptodactylodon axillaris" ; Times: 1
+	Query: "Ptychadena longirostris" ; Times: 2
+	Query: "Hyperolius chlorosteus" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "Astylosternus ranoides" ; Times: 1
+	Query: "sphaerodactylus argus" ; Times: 1
+	Query: "Leptopelis zebra" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Afrixalus vibekensis" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "Phrynobatrachus anotis" ; Times: 2
+	Query: "Petropedetes parkeri" ; Times: 2
+	Query: "amphisbaena caeca" ; Times: 1
+	Query: "Conraua robusta" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "Phrynobatrachus cryptotis" ; Times: 2
+	Query: "Phrynobatrachus guineensis" ; Times: 2
+	Query: "ameiva auberi" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "Astylosternus nganhanus" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Phrynobatrachus phyllophilus" ; Times: 2
+	Query: "Phrynobatrachus cricogaster" ; Times: 2
+	Query: "Hyperolius wermuthi" ; Times: 1
+	Query: "Astylosternus schioetzi" ; Times: 1
+	Query: "Leptodactylodon bicolor" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 2
+	Query: "yonahlossee" ; Times: 1
+	Query: "Ptychadena submascareniensis" ; Times: 2
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Cardioglossa melanogaster" ; Times: 1
+	Query: "Kassina lamottei" ; Times: 1
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "Phrynobatrachus werneri" ; Times: 2
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 2
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "Alexteroon jynx" ; Times: 1
+	Query: "Phrynobatrachus ogoensis" ; Times: 2
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Hyperolius picturatus" ; Times: 1
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "Kassina cochranae" ; Times: 1
+	Query: "Phrynobatrachus manengoubensis" ; Times: 2
+	Query: "xenopus tropicalis" ; Times: 2
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "Amnirana occidentalis" ; Times: 1
+	Query: "Leptodactylodon polyacanthus" ; Times: 1
+	Query: "Arthroleptis langeri" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Leptopelis modestus" ; Times: 1
+	Query: "Hyperolius viridigulosus" ; Times: 1
+	Query: "Leptodactylodon erythrogaster" ; Times: 1
+	Query: "Leptodactylodon blanci" ; Times: 1
+	Query: "Cardioglossa oreas" ; Times: 1
+	Query: "Arthroleptis crusculum" ; Times: 1
+	Query: "Afrixalus nigeriensis" ; Times: 1
+	Query: "Astylosternus rheophilus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Acanthixalus spinosus" ; Times: 1
+	Query: "Petropedetes perreti" ; Times: 2
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "Wolterstorffina mirei" ; Times: 1
+	Query: "Astylosternus fallax" ; Times: 1
+	Query: "Cardioglossa venusta" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "Arthroleptis spinalis" ; Times: 1
+	Query: "Hyperolius acutirostris" ; Times: 2
+	Query: "Kassina decorata" ; Times: 1
+	Query: "Ptychadena superciliaris" ; Times: 2
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "Cardioglossa trifasciata" ; Times: 1
+	Query: "astylosternus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Hyperolius bolifambae" ; Times: 2
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "Phrynobatrachus liberiensis" ; Times: 2
+	Query: "Astylosternus perreti" ; Times: 1
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "Leptodactylodon ovatus" ; Times: 1
+	Query: "Ptychadena aequiplicata" ; Times: 2
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "Werneria mertensiana" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "Alexteroon hypsiphonus" ; Times: 1
+	Query: "Hyperolius bobirensis" ; Times: 3
+	Query: "Nimbaphrynoides occidentalis" ; Times: 2
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "Astylosternus laurenti" ; Times: 1
+	Query: "Werneria bambutensis" ; Times: 1
+	Query: "Arthroleptis nimbaensis" ; Times: 1
+	Query: "Cardioglossa nigromaculata" ; Times: 1
+	Query: "Leptodactylodon wildi" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "Phrynobatrachus villiersi" ; Times: 2
+	Query: "Conraua alleni" ; Times: 1
+	Query: "Phrynobatrachus annulatus" ; Times: 2
+	Query: "Cardioglossa occidentalis" ; Times: 1
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "Leptodactylodon bueanus" ; Times: 1
+	Query: "asymblepharus" ; Times: 1
+	Query: "Hyperolius chrysogaster" ; Times: 2
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "Leptodactylodon ornatus" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "Wolterstorffina chirioi" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "Astylosternus montanus" ; Times: 1
+	Query: "sphaerodactylus nicholsi" ; Times: 1
+	Query: "Tretanorhinus variabilis" ; Times: 1
+
+
+End of report.
