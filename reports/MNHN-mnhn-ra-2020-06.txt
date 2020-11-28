@@ -1,0 +1,126 @@
+Report for Institution Code MNHN, Resource mnhn-ra
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 445
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 15
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 37
+	Country: Vietnam ; Times: 1
+	Country: Slovakia ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 4
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 9
+	Date: 2020-06-04 ; Times: 14
+	Date: 2020-06-05 ; Times: 8
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-01 ; Times: 10
+	Date: 2020-06-10 ; Times: 5
+	Date: 2020-06-12 ; Times: 3
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidodactylus vanuatuensis" ; Times: 1
+	Query: "Natriciteres fuliginoides" ; Times: 1
+	Query: "lygodactylus fischeri" ; Times: 1
+	Query: "Phelsuma guentheri" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "sochureki" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "Siphonops" ; Times: 1
+	Query: "Clelia errabunda" ; Times: 1
+	Query: "Enhydris pakistanica" ; Times: 1
+	Query: "MNHN 1912.349" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "tantilla taeniata" ; Times: 1
+	Query: "MNHN 1993.3473" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "Xenochrophis melanzostus" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 4
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Amphisbaena carvalhoi" ; Times: 2
+	Query: "Natrix tessellata" ; Times: 2
+	Query: "Microlophus barringtonensis" ; Times: 1
+	Query: "lycodon travancoricus" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 2
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "amphiesma stolatum" ; Times: 3
+	Query: "Podarcis pityusensis" ; Times: 1
+	Query: "Phelsuma rosagularis" ; Times: 1
+	Query: "Varanus melinus" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 7
+	Query: "boiga trigonata" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 2
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "Neusticurus bicarinatus" ; Times: 1
+	Query: "Rhabdophis spilogaster" ; Times: 1
+	Query: "Diemictylus" ; Times: 1
+	Query: "Hemidactylus newtoni" ; Times: 1
+	Query: "Micrurus Wagler" ; Times: 2
+	Query: "Ovophis okinavensis" ; Times: 1
+	Query: "Lycodryas maculatus" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 474 download events in this period)
+Total number of records downloaded: 180
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-25 ; Times: 4
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Phelsuma guimbeaui" ; Times: 1
+	Query: "Ovophis okinavensis" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Neusticurus bicarinatus" ; Times: 1
+	Query: "Lepidodactylus vanuatuensis" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "axolotl" ; Times: 2
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+
+
+End of report.
